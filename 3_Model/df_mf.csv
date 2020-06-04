@@ -1,0 +1,1752 @@
+,age,course,gender,name,time,year,age_range
+0,,short,M,Paul Green,2.58333333333,2011.0,
+1,,short,F,Sally Staton,2.61666666667,2011.0,
+2,,short,M,Mark Charles,2.61666666667,2011.0,
+3,,short,M,Billy Mackintosh,2.78333333333,2011.0,
+4,,short,F,Helen MacLeod,2.85,2011.0,
+5,,short,F,Ruth Mileham,2.85,2011.0,
+6,,short,F,Suzanne Waller,3.21666666667,2011.0,
+7,,short,M,Colin Jamieson,3.3,2011.0,
+8,,short,M,George Goldsmith,3.48333333333,2011.0,
+9,,short,M,Julian Lockwood,3.48333333333,2011.0,
+10,,short,M,Jamie Howard,3.6,2011.0,
+11,,short,M,Mark Grundy,3.68333333333,2011.0,
+12,,short,M,David Dytch,3.76666666667,2011.0,
+13,14.0,short,F,Hayley Howard,3.83333333333,2011.0,10 - 19
+14,49.0,short,M,Stephen Howard,3.83333333333,2011.0,40 - 49
+15,60.0,short,M,Fergus Laing,3.83333333333,2011.0,60 - 69
+16,,short,M,Andrew Legge,3.83333333333,2011.0,
+17,49.0,short,F,Claire Wishart,3.85,2011.0,40 - 49
+18,,short,F,Mary Hurst,4.06666666667,2011.0,
+19,,short,F,Lara de Klee,4.06666666667,2011.0,
+20,39.0,short,M,Andrew Currie,4.16666666667,2011.0,30 - 39
+21,,short,M,Colin Dawson,4.16666666667,2011.0,
+22,,short,M,Mr Horne,4.43333333333,2011.0,
+23,46.0,short,F,Pauline Aitchison,4.63333333333,2011.0,40 - 49
+24,44.0,short,M,David Telling,4.63333333333,2011.0,40 - 49
+25,,short,F,Margorie Nelson,4.81666666667,2011.0,
+26,,short,F,Lindsay Burke,4.86666666667,2011.0,
+27,,short,M,Craig McDonald,4.9,2011.0,
+28,,short,M,Aubrey Collins,4.91666666667,2011.0,
+29,,short,M,Alastair Gossage,4.91666666667,2011.0,
+30,,short,M,David Elton,4.91666666667,2011.0,
+31,61.0,short,M,Joseph Kavanagh,5.03333333333,2011.0,60 - 69
+32,,short,F,Lindsay Tolland,5.2,2011.0,
+33,,short,M,Derek Lintott,5.2,2011.0,
+34,,short,M,Iain McCafferty,5.2,2011.0,
+35,,short,M,Jeremy Brown,5.5,2011.0,
+36,,short,M,Simon Paul,5.5,2011.0,
+37,,short,M,Gordon Scott,5.65,2011.0,
+38,,short,F,Juliet Blanshard,5.91666666667,2011.0,
+39,54.0,short,F,Susie Corbett,5.91666666667,2011.0,50 - 59
+40,,short,F,Lucy James,5.91666666667,2011.0,
+41,,short,F,Charmian Jones,5.93333333333,2011.0,
+42,,short,F,Katherine Sellon,5.93333333333,2011.0,
+43,22.0,short,M,Cameron Anson,6.05,2011.0,20 - 29
+44,47.0,long,M,David Stephen,4.55,2011.0,40 - 49
+45,,long,M,Will  Wright,4.55,2011.0,
+46,,long,M,Davie Graham,4.96666666667,2011.0,
+47,,long,M,Samuel Downing,5.03333333333,2011.0,
+48,47.0,long,M,Alan Moore,5.06666666667,2011.0,40 - 49
+49,,long,M,Mike Wood,5.45,2011.0,
+50,,long,M,Andy Clark,5.48333333333,2011.0,
+51,,long,M,Jim Ryder,5.5,2011.0,
+52,,long,M,Mark McWilliam,5.56666666667,2011.0,
+53,,long,M,David Harcourt,5.61666666667,2011.0,
+54,,long,M,Colin Rae,5.65,2011.0,
+55,25.0,long,F,Jenny Reid,5.68333333333,2011.0,20 - 29
+56,,long,M,Chris Farrell,5.7,2011.0,
+57,,long,M,Jim Keenan,5.76666666667,2011.0,
+58,,long,M,Jeremy  Plummer,6.01666666667,2011.0,
+59,,long,M,Alexander Barclay,6.03333333333,2011.0,
+60,29.0,long,M,Francis Carnegy,6.05,2011.0,20 - 29
+61,,long,F,Jo Foster,6.06666666667,2011.0,
+62,,long,F,Rebecca Taylor,6.08333333333,2011.0,
+63,,long,M,Jon Austen,6.15,2011.0,
+64,,long,M,Michael Dougall,6.21666666667,2011.0,
+65,,long,F,Alex MacDonald,6.31666666667,2011.0,
+66,,long,M,Andrew Darnton,6.43333333333,2011.0,
+67,,long,M,Mark Higham,6.43333333333,2011.0,
+68,,long,M,Steven McHaffie,6.43333333333,2011.0,
+69,,long,M,Joe Reade,6.46666666667,2011.0,
+70,42.0,long,M,Alan Noble,6.46666666667,2011.0,40 - 49
+71,43.0,long,M,Brian Macleod,6.58333333333,2011.0,40 - 49
+72,,long,M,John MacDonald,6.6,2011.0,
+73,,long,M,Stephen Dunn,6.65,2011.0,
+74,,long,M,Jonathan Blanshard,6.68333333333,2011.0,
+75,,long,M,Andrew Elliott,6.76666666667,2011.0,
+76,,long,M,David Gemmell,6.8,2011.0,
+77,,long,M,Philip Farrer,6.83333333333,2011.0,
+78,55.0,long,M,Charlie Corbett,6.96666666667,2011.0,50 - 59
+79,,long,M,Simon James,6.96666666667,2011.0,
+80,,long,M,Jonathan Moseley,7.06666666667,2011.0,
+81,45.0,long,M,Michael Diver,7.08333333333,2011.0,40 - 49
+82,55.0,long,M,Alan Ellis,7.1,2011.0,50 - 59
+83,,long,M,David Jamieson,7.16666666667,2011.0,
+84,43.0,long,M,Johnnie Maltman,7.16666666667,2011.0,40 - 49
+85,,long,M,Anthony Edwards,7.18333333333,2011.0,
+86,,long,M,Peter Mileham,7.18333333333,2011.0,
+87,,long,F,Fiona Stubbs,7.21666666667,2011.0,
+88,,long,M,Richard Cotton,7.28333333333,2011.0,
+89,,long,M,Herman Hintzen,7.28333333333,2011.0,
+90,42.0,long,M,Andy Robinson,7.28333333333,2011.0,40 - 49
+91,45.0,long,F,Elly Veitch,7.53333333333,2011.0,40 - 49
+92,33.0,long,M,Thomas I'Anson,7.53333333333,2011.0,30 - 39
+93,,long,F,Wolfe Olivia ,7.58333333333,2011.0,
+94,,long,M,Geoffrey Burnand,7.68333333333,2011.0,
+95,,long,F,Rosebie Morton,7.78333333333,2011.0,
+96,,long,M,Matthew Morton,7.78333333333,2011.0,
+97,,long,F,Rebecca Corbett,7.81666666667,2011.0,
+98,,long,F,Iona Laing,7.81666666667,2011.0,
+99,,long,F,Susie MacDonald,7.81666666667,2011.0,
+100,,long,M,Richard Perkins,7.81666666667,2011.0,
+101,,long,M,Andy Rae,7.81666666667,2011.0,
+102,,long,M,Charles Parker,7.96666666667,2011.0,
+103,,long,M,Rob Jones,8.08333333333,2011.0,
+104,,long,M,Robert Trythall,8.16666666667,2011.0,
+105,,long,M,Alastair Stephen,8.16666666667,2011.0,
+106,,long,F,Catherine Cole,9.33333333333,2011.0,
+107,,long,F,Olivia McGregor,9.33333333333,2011.0,
+109,39.0,long,M,Steven MacInnes,4.31666666667,2012.0,30 - 39
+110,28.0,long,M,Alan Dean,4.50416666667,2012.0,20 - 29
+111,48.0,long,M,David Stephen,4.54166666667,2012.0,40 - 49
+112,45.0,long,M,Mark Johnston,4.81722222222,2012.0,40 - 49
+113,53.0,long,M,Mike McKenzie,4.90861111111,2012.0,50 - 59
+114,27.0,long,M,James Cameron,4.94888888889,2012.0,20 - 29
+115,28.0,long,M,AndreF Nicell,4.95194444444,2012.0,20 - 29
+116,48.0,long,M,Alan Moore,5.08638888889,2012.0,40 - 49
+117,51.0,long,M,Graham Gauld,5.22916666667,2012.0,50 - 59
+118,40.0,long,M,Gordon Moir,5.28888888889,2012.0,40 - 49
+119,47.0,long,M,Steven Kennedy,5.33805555556,2012.0,40 - 49
+120,28.0,long,M,Eoghan Maguire,5.34555555556,2012.0,20 - 29
+121,28.0,long,F,Mireille Captieux,5.35472222222,2012.0,20 - 29
+122,30.0,long,M,Mark Hughes,5.35666666667,2012.0,30 - 39
+123,47.0,long,M,Rob FainFright,5.57972222222,2012.0,40 - 49
+124,40.0,long,M,Brian MacIntyre,5.58138888889,2012.0,40 - 49
+125,24.0,long,M,Craig Stuart Henderson,5.66055555556,2012.0,20 - 29
+126,54.0,long,M,Alex Heron,5.6775,2012.0,50 - 59
+127,52.0,long,M,Mike Food,5.69694444444,2012.0,50 - 59
+128,53.0,long,M,Alastair Murdoch,5.72305555556,2012.0,50 - 59
+129,44.0,long,M,Brian Macleod,5.76555555556,2012.0,40 - 49
+130,47.0,long,M,Craig Henderson,5.77222222222,2012.0,40 - 49
+131,43.0,long,M,Ian Duff,5.77611111111,2012.0,40 - 49
+132,49.0,long,M,AndreF Legge,5.87333333333,2012.0,40 - 49
+133,38.0,long,M,Hector MacKechnie,5.88166666667,2012.0,30 - 39
+134,64.0,long,M,David Hood,5.90666666667,2012.0,60 - 69
+135,44.0,long,M,Andy McAllister,5.95444444444,2012.0,40 - 49
+136,43.0,long,M,Tom Barr,5.97416666667,2012.0,40 - 49
+137,44.0,long,M,Gordon Milne,6.00972222222,2012.0,40 - 49
+138,46.0,long,M,Douglas Anderson,6.04027777778,2012.0,40 - 49
+139,43.0,long,M,Andy Robinson,6.05166666667,2012.0,40 - 49
+140,38.0,long,F,Peggy Series,6.05638888889,2012.0,30 - 39
+141,29.0,long,F,Victoria Reid,6.09222222222,2012.0,20 - 29
+142,41.0,long,M,Les Bruce,6.105,2012.0,40 - 49
+143,55.0,long,F,Jo Haigh,6.1125,2012.0,50 - 59
+144,32.0,long,M,David Fhite,6.18638888889,2012.0,30 - 39
+145,56.0,long,M,Allan Stout,6.19166666667,2012.0,50 - 59
+146,43.0,long,M,Alan Noble,6.205,2012.0,40 - 49
+147,30.0,long,F,Joanna Evans,6.23111111111,2012.0,30 - 39
+148,29.0,long,M,David Roberts,6.23611111111,2012.0,20 - 29
+149,30.0,long,M,Francis Carnegy,6.25861111111,2012.0,30 - 39
+150,46.0,long,M,Michael Diver,6.33805555556,2012.0,40 - 49
+151,36.0,long,M,John Muir,6.35416666667,2012.0,30 - 39
+152,58.0,long,M,SteFart Henderson,6.57638888889,2012.0,50 - 59
+153,51.0,long,M,Derek Oliver,6.57722222222,2012.0,50 - 59
+154,44.0,long,M,Johnnie Maltman,6.65277777778,2012.0,40 - 49
+155,47.0,long,M,David Leiper,6.71472222222,2012.0,40 - 49
+156,41.0,long,M,Gerard McHenry,6.81472222222,2012.0,40 - 49
+157,36.0,long,M,Charles Carnegy,6.87805555556,2012.0,30 - 39
+158,60.0,long,M,Martin Hadshar,7.19694444444,2012.0,60 - 69
+159,54.0,long,M,Bob House,7.4,2012.0,50 - 59
+160,46.0,long,M,Craig MacFilliam,7.48694444444,2012.0,40 - 49
+161,47.0,long,M,Philip Gane,7.49361111111,2012.0,40 - 49
+162,55.0,long,M,Jamie HoFard,7.515,2012.0,50 - 59
+163,57.0,long,M,Gerard Peverelli,7.54361111111,2012.0,50 - 59
+164,51.0,long,M,Tony Kilbourn,7.55888888889,2012.0,50 - 59
+165,50.0,long,M,Graeme Thomson,7.65805555556,2012.0,50 - 59
+166,41.0,long,M,Anthony Potts,7.67666666667,2012.0,40 - 49
+167,45.0,long,M,Seamus O'Neill,7.70861111111,2012.0,40 - 49
+168,40.0,long,M,Richard Corbett,7.8375,2012.0,40 - 49
+169,56.0,long,M,Charlie Corbett,7.83888888889,2012.0,50 - 59
+170,23.0,long,M,Patrick Findle,7.94833333333,2012.0,20 - 29
+171,51.0,long,M,Jim Mortimer,8.02555555556,2012.0,50 - 59
+172,27.0,long,M,AndreF Findle,8.03138888889,2012.0,20 - 29
+173,55.0,long,M,Filliam Tyser,8.03222222222,2012.0,50 - 59
+174,55.0,long,M,Robert Findle,8.04,2012.0,50 - 59
+175,45.0,long,M,David Telling,8.175,2012.0,40 - 49
+176,47.0,long,F,Pauline Aitchison,8.17861111111,2012.0,40 - 49
+177,52.0,long,M,Nicholas Horne,8.18527777778,2012.0,50 - 59
+178,53.0,long,M,David CoFan,8.305,2012.0,50 - 59
+179,36.0,long,M,Iain McCormick,8.37027777778,2012.0,30 - 39
+180,35.0,long,F,Becky McCormick,8.37527777778,2012.0,30 - 39
+181,53.0,long,F,Carol CoFan,8.4275,2012.0,50 - 59
+182,58.0,long,F,Sylvie Griffiths,8.43027777778,2012.0,50 - 59
+183,50.0,long,M,Peter Griffiths,8.43055555556,2012.0,50 - 59
+184,18.0,short,M,Samuel DoFning,2.52861111111,2012.0,10 - 19
+185,28.0,short,M,AndreF Semple,2.57805555556,2012.0,20 - 29
+186,30.0,short,M,Russell MacKinnon,2.62083333333,2012.0,30 - 39
+187,56.0,short,M,Dougie Fox,2.635,2012.0,50 - 59
+188,20.0,short,F,Sarah Stephen,2.66222222222,2012.0,20 - 29
+189,26.0,short,M,Jake French,2.73111111111,2012.0,20 - 29
+190,50.0,short,M,Ian Filson,2.76527777778,2012.0,50 - 59
+191,26.0,short,F,Jenny Reid,3.02833333333,2012.0,20 - 29
+192,43.0,short,M,James Speakman,3.17583333333,2012.0,40 - 49
+193,28.0,short,F,Eleanor Grinter,3.22972222222,2012.0,20 - 29
+194,33.0,short,M,DreF Sinclair,3.3075,2012.0,30 - 39
+195,23.0,short,F,Andrea HoFard,3.37805555556,2012.0,20 - 29
+196,53.0,short,F,Carol McKenzie,3.42361111111,2012.0,50 - 59
+197,57.0,short,M,Timothy Laing,3.46222222222,2012.0,50 - 59
+198,61.0,short,M,Fergus Laing,3.46527777778,2012.0,60 - 69
+199,43.0,short,F,Julie Duff,3.54222222222,2012.0,40 - 49
+200,38.0,short,F,Vanessa Maclean,3.55527777778,2012.0,30 - 39
+201,47.0,short,M,Vincent O'Donoghue,3.66472222222,2012.0,40 - 49
+202,43.0,short,M,Stuart Robertson,3.69361111111,2012.0,40 - 49
+203,48.0,short,M,Martin Murray,3.69888888889,2012.0,40 - 49
+204,52.0,short,M,Gary Lamont,3.80777777778,2012.0,50 - 59
+205,27.0,short,F,Ailsa HoFie,3.85472222222,2012.0,20 - 29
+206,31.0,short,F,Inese Klucane,3.90277777778,2012.0,30 - 39
+207,46.0,short,M,Nick Fitzgerald,3.90333333333,2012.0,40 - 49
+208,13.0,short,F,Beth Lamont,3.94,2012.0,10 - 19
+209,48.0,short,F,Penny Lamont,3.94166666667,2012.0,40 - 49
+210,48.0,short,F,Tina Barrie,3.94944444444,2012.0,40 - 49
+211,34.0,short,M,Thomas I'Anson,4.05055555556,2012.0,30 - 39
+212,46.0,short,F,Elly Vetch,4.05388888889,2012.0,40 - 49
+213,40.0,short,M,Scott Fright,4.13583333333,2012.0,40 - 49
+214,41.0,short,M,Gordon Allan,4.14583333333,2012.0,40 - 49
+215,17.0,short,F,Hayley HoFard,4.15722222222,2012.0,10 - 19
+216,50.0,short,M,Stephen HoFard,4.16055555556,2012.0,50 - 59
+217,55.0,short,F,Susie Corbett,4.24166666667,2012.0,50 - 59
+218,59.0,short,F,Carolyn Balfour,4.25,2012.0,50 - 59
+219,49.0,short,F,Teresa Monteith,4.3325,2012.0,40 - 49
+220,31.0,short,F,Effie Dearden,4.48194444444,2012.0,30 - 39
+221,46.0,short,F,Janette Hannah,4.52138888889,2012.0,40 - 49
+222,43.0,short,M,AndreF Currie,4.54138888889,2012.0,40 - 49
+223,46.0,short,M,Colin DaFson,4.54388888889,2012.0,40 - 49
+224,43.0,short,M,Brendan Renfrey,4.57777777778,2012.0,40 - 49
+225,39.0,short,F,Marjorie Nelson,4.65666666667,2012.0,30 - 39
+226,27.0,short,M,Adam Munson,4.77333333333,2012.0,20 - 29
+227,46.0,short,F,Emma Nelson,4.855,2012.0,40 - 49
+228,23.0,short,M,Cameron Anson,5.075,2012.0,20 - 29
+229,40.0,short,F,Gillian Filshire,5.20472222222,2012.0,40 - 49
+230,56.0,short,M,Alan Ellis,5.77777777778,2012.0,50 - 59
+231,56.0,short,F,Emma Ellis,5.78,2012.0,50 - 59
+232,62.0,short,M,Joseph Kavanagh,6.13111111111,2012.0,60 - 69
+233,,short,M,Euan Mackie,2.46388888889,2013.0,
+234,,short,M,Alan Cuthill,2.7,2013.0,
+235,,short,F,Rae Captieux,2.83972222222,2013.0,
+236,,short,M,Steve Bush,2.84,2013.0,
+237,29.0,short,M,Eoghan Maguire,2.84,2013.0,20 - 29
+238,,short,M,Jamie Barlow,2.88944444444,2013.0,
+239,,short,M,Ross Graham,2.90083333333,2013.0,
+240,,short,M,Keith Gate,2.96333333333,2013.0,
+241,,short,M,Brian Mccorquodale,2.97222222222,2013.0,
+242,,short,,Angus MacCallum,2.99972222222,2013.0,
+243,,short,M,Andrew Penny,3.00388888889,2013.0,
+244,52.0,short,M,David Mann,3.03333333333,2013.0,50 - 59
+245,,short,M,Peter Crossland,3.09277777778,2013.0,
+246,47.0,short,F,Elly Veitch,3.19555555556,2013.0,40 - 49
+247,,short,M,Richard Barrie,3.2,2013.0,
+248,29.0,short,F,Fiona Beveridge,3.23222222222,2013.0,20 - 29
+249,,short,M,Gerry  Kangley,3.28666666667,2013.0,
+250,32.0,short,M,David Muir,3.39472222222,2013.0,30 - 39
+251,49.0,short,F,Tina Barrie,3.40083333333,2013.0,40 - 49
+252,31.0,short,M,Bruce Robertson,3.485,2013.0,30 - 39
+253,,short,M,Graham Watters,3.495,2013.0,
+254,,short,F,Joy Hadden,3.49611111111,2013.0,
+255,,short,M,Anthony Mccarthy,3.52,2013.0,
+256,,short,F,Kate Mucklow,3.56416666667,2013.0,
+257,,short,M,Rupert Jones,3.57916666667,2013.0,
+258,,short,F,Hannah Bainbridge,3.62833333333,2013.0,
+259,,short,M,Alan Parker,3.79027777778,2013.0,
+260,,short,M,Terry Miller,3.87055555556,2013.0,
+261,49.0,short,M,Martin Murray,3.87944444444,2013.0,40 - 49
+262,44.0,short,M,Stuart Robertson,3.99277777778,2013.0,40 - 49
+263,,short,M,Derek Stewart,4.05361111111,2013.0,
+264,51.0,short,F,Rona Young,4.07555555556,2013.0,50 - 59
+265,,short,F,Morven Jaffrey,4.10194444444,2013.0,
+266,,short,F,Susan Wilson,4.2625,2013.0,
+267,38.0,short,M,Ross Jaffrey,4.26527777778,2013.0,30 - 39
+268,,short,,Monteith Tess,4.29194444444,2013.0,
+269,,short,F,Annelies Klumphaar,4.31472222222,2013.0,
+270,,short,F,Ingrid Keersche,4.31555555556,2013.0,
+271,,short,M,Jamie Howard,4.31861111111,2013.0,
+272,53.0,short,F,Carol Blakeley,4.33861111111,2013.0,50 - 59
+273,66.0,short,M,Charlie Davies,4.33888888889,2013.0,60 - 69
+274,51.0,short,F,Anne Smart,4.48944444444,2013.0,50 - 59
+275,,short,M,James Wilson,4.62777777778,2013.0,
+276,,short,M,Jim Murdoch,4.62777777778,2013.0,
+277,51.0,short,F,Claire Wishart,4.68055555556,2013.0,50 - 59
+278,47.0,short,F,Emma Nelson,4.71361111111,2013.0,40 - 49
+279,,short,M,Sandy Wilson,4.76666666667,2013.0,
+280,,short,M,James Dixon,4.79166666667,2013.0,
+281,56.0,short,F,Susie Corbett,4.82583333333,2013.0,50 - 59
+282,,short,F,Karen Young,4.82611111111,2013.0,
+283,47.0,short,M,Robert Mathieson,5.03722222222,2013.0,40 - 49
+284,52.0,short,F,Babs Whyte,5.29194444444,2013.0,50 - 59
+285,41.0,short,F,Julie Abrahams,5.33333333333,2013.0,40 - 49
+286,39.0,short,F,Ruth Anderson,5.35,2013.0,30 - 39
+287,,short,F,Shona Reade,5.53555555556,2013.0,
+288,45.0,short,F,Lynn O'Donnell,5.53694444444,2013.0,40 - 49
+289,36.0,short,F,Graziella Gungui,5.61444444444,2013.0,30 - 39
+290,,short,F,Mairi  Davidson,5.61444444444,2013.0,
+291,29.0,long,M,Alan Dean,4.39166666667,2013.0,20 - 29
+292,,long,M,Owen Jeffries,4.51722222222,2013.0,
+293,29.0,long,M,Andrew Nicell,4.5175,2013.0,20 - 29
+294,,long,M,Niall MacDonald,4.55805555556,2013.0,
+295,,long,M,Jonathan Doherty,4.69222222222,2013.0,
+296,,long,M,Ben Kirkpatrick,4.6925,2013.0,
+297,,long,M,Colin Tennent,4.69555555556,2013.0,
+298,31.0,long,M,Russell MacKinnon,4.69805555556,2013.0,30 - 39
+299,,long,M,Jamie Maxwell,4.73222222222,2013.0,
+300,45.0,long,M,Brian Macleod,4.83694444444,2013.0,40 - 49
+301,,long,M,Gerard Dodds,4.83944444444,2013.0,
+302,48.0,long,M,Steven Kennedy,4.91694444444,2013.0,40 - 49
+303,,long,M,Niall Campbell,4.95722222222,2013.0,
+304,28.0,long,M,James Cameron,4.99555555556,2013.0,20 - 29
+305,43.0,long,M,Iain Ross,5.0,2013.0,40 - 49
+306,44.0,long,M,Alan Joyce,5.00972222222,2013.0,40 - 49
+307,31.0,long,M,Sean Morgan,5.00972222222,2013.0,30 - 39
+308,,long,,Miller Cameron,5.06611111111,2013.0,
+309,,long,M,Gus Robertson,5.17222222222,2013.0,
+310,,long,M,Edward Young,5.19333333333,2013.0,
+311,,long,M,David Murdoch,5.31222222222,2013.0,
+312,41.0,long,M,Gordon Moir,5.34583333333,2013.0,40 - 49
+313,,long,M,Andrew Johnston,5.35777777778,2013.0,
+314,39.0,long,F,Peggy Series,5.35916666667,2013.0,30 - 39
+315,,long,M,Ross Miller,5.36694444444,2013.0,
+316,,long,M,Robert  Wainright,5.40388888889,2013.0,
+317,,long,M,Brian  MacIntyre,5.40388888889,2013.0,
+318,,long,M,Richard Harrap,5.42111111111,2013.0,
+319,,long,M,Michael Perkins,5.42194444444,2013.0,
+320,,long,M,Mark Hanlon,5.4425,2013.0,
+321,,long,M,John Manley,5.50583333333,2013.0,
+322,,long,F,Patricia Robertson,5.54388888889,2013.0,
+323,45.0,long,M,Gordon Milne,5.64027777778,2013.0,40 - 49
+324,,long,M,John Mucklow,5.6775,2013.0,
+325,43.0,long,M,Wil Tunnell,5.85416666667,2013.0,40 - 49
+326,44.0,long,M,Tom Barr,5.85444444444,2013.0,40 - 49
+327,51.0,long,M,Graeme Thomson,5.88555555556,2013.0,50 - 59
+328,,long,M,Simon Young,5.93027777778,2013.0,
+329,57.0,long,M,Charlie Corbett,5.93027777778,2013.0,50 - 59
+330,44.0,long,M,Andy Robinson,5.98611111111,2013.0,40 - 49
+331,,long,,Jane Johnston,6.03777777778,2013.0,
+332,,long,M,Matt Southerden,6.0925,2013.0,
+333,,long,M,David Jackson,6.23305555556,2013.0,
+334,55.0,long,M,Bob House,6.3,2013.0,50 - 59
+335,,long,M,James Goodenough,6.32638888889,2013.0,
+336,,long,M,Carlo Guidi,6.37333333333,2013.0,
+337,,long,M,Paul Gilligan,6.37388888889,2013.0,
+338,29.0,long,F,Catriona Phillips,6.38666666667,2013.0,20 - 29
+339,52.0,long,M,Bill McFadden,6.40416666667,2013.0,50 - 59
+340,,long,M,John Brown,6.40472222222,2013.0,
+341,,long,M,Angus Richardson,6.51111111111,2013.0,
+342,,long,M,Simon Price,6.53666666667,2013.0,
+343,,long,F,Kathryn Goodenough,6.53666666667,2013.0,
+344,31.0,long,M,Francis Carnegy,6.55805555556,2013.0,30 - 39
+345,39.0,long,F,Vanessa Maclean,6.56555555556,2013.0,30 - 39
+346,31.0,long,F,Joanna Evans,6.6425,2013.0,30 - 39
+347,,long,M,Nick Laing,6.66666666667,2013.0,
+348,,long,M,Stephen Hill,6.72638888889,2013.0,
+349,51.0,long,M,Peter Griffiths,6.74166666667,2013.0,50 - 59
+350,,long,M,Anthony Galvin,6.79194444444,2013.0,
+351,30.0,long,M,David Roberts,6.79388888889,2013.0,30 - 39
+352,61.0,long,M,Martin Hadshar,6.92861111111,2013.0,60 - 69
+353,,long,M,Charlie Blair,7.04361111111,2013.0,
+354,,long,M,Doug Irving,7.29722222222,2013.0,
+355,,long,M,Paul Marynicz,7.31388888889,2013.0,
+356,,long,M,Torcuil Grant,7.31944444444,2013.0,
+357,,long,M,Tony Robinson,7.3375,2013.0,
+358,,long,M,Graham Coulthard,7.35111111111,2013.0,
+359,,long,M,Colin Mann,7.38194444444,2013.0,
+360,,long,M,Ian Parkinson,7.44888888889,2013.0,
+361,,long,M,Jonathan Moseley,8.06027777778,2013.0,
+362,59.0,long,F,Sylvie Griffiths,8.10611111111,2013.0,50 - 59
+363,,long,M,Alistair Macintosh,8.13888888889,2013.0,
+364,53.0,long,M,Nicholas Horne,8.26666666667,2013.0,50 - 59
+365,57.0,long,M,Alan Ellis,8.26666666667,2013.0,50 - 59
+366,51.0,long,M,Niall MacLean,8.37138888889,2013.0,50 - 59
+367,46.0,long,F,Emma O'Neill,8.37138888889,2013.0,40 - 49
+368,,long,F,Shona Stewart,8.58888888889,2013.0,
+369,,long,F,Elaine Sandeman,8.58888888889,2013.0,
+370,48.0,long,F,Pauline Aitchison,9.12444444444,2013.0,40 - 49
+371,46.0,long,M,David Telling,9.12916666667,2013.0,40 - 49
+377,,short,M,Brian Gibson,2.53277777778,2014.0,
+378,26.0,short,M,Jack O'Brien,2.82388888889,2014.0,20 - 29
+379,43.0,short,M,William Graham,2.83111111111,2014.0,40 - 49
+380,40.0,short,M,Hector MacKechnie,2.83666666667,2014.0,40 - 49
+381,42.0,short,M,Jonathan Keefe,2.8475,2014.0,40 - 49
+382,45.0,short,M,Tom Barr,2.90138888889,2014.0,40 - 49
+383,30.0,short,F,Fiona Beveridge,2.90888888889,2014.0,30 - 39
+384,36.0,short,M,Gary Ross,2.92638888889,2014.0,30 - 39
+385,45.0,short,M,Alan Noble,2.94888888889,2014.0,40 - 49
+386,34.0,short,F,Louise Buttery,3.00722222222,2014.0,30 - 39
+387,55.0,short,M,Neil MacKinnon,3.17305555556,2014.0,50 - 59
+388,62.0,short,M,Donnie Meldrum,3.22222222222,2014.0,60 - 69
+389,49.0,short,M,Graham Bruce-Richards,3.23527777778,2014.0,40 - 49
+390,33.0,short,M,David Muir,3.38611111111,2014.0,30 - 39
+391,50.0,short,M,Martin Murray,3.39416666667,2014.0,50 - 59
+392,29.0,short,M,Ross Baird,3.48555555556,2014.0,20 - 29
+393,36.0,short,M,Thomas I'Anson,3.48861111111,2014.0,30 - 39
+394,48.0,short,F,Elly Veitch,3.52222222222,2014.0,40 - 49
+395,53.0,short,M,Jim McMeeken,3.5325,2014.0,50 - 59
+396,57.0,short,M,John McMeeken,3.60277777778,2014.0,50 - 59
+397,45.0,short,M,Stuart Robertson,3.68138888889,2014.0,40 - 49
+398,34.0,short,M,Philip Riley,3.72472222222,2014.0,30 - 39
+399,52.0,short,F,Claire Wishart,3.80305555556,2014.0,50 - 59
+400,53.0,short,M,Chris Wigens,3.81888888889,2014.0,50 - 59
+401,49.0,short,F,Claire Palmer,3.93888888889,2014.0,40 - 49
+402,40.0,short,F,Vanessa Maclean,4.0375,2014.0,40 - 49
+403,38.0,short,F,Caroline Emmerson,4.13333333333,2014.0,30 - 39
+404,47.0,short,M,Steve Harris,4.13333333333,2014.0,40 - 49
+405,30.0,long,M,Alan Dean,4.20138888889,2014.0,30 - 39
+406,41.0,long,M,Steven MacInnes,4.25138888889,2014.0,40 - 49
+407,40.0,short,F,Ruth Anderson,4.25416666667,2014.0,40 - 49
+408,49.0,short,F,Moira McKelvie,4.28,2014.0,40 - 49
+409,54.0,short,F,Carol Blakeley,4.31805555556,2014.0,50 - 59
+410,67.0,short,M,Charlie Davies,4.31861111111,2014.0,60 - 69
+411,59.0,short,M,Gerald Evans,4.37222222222,2014.0,50 - 59
+412,55.0,short,F,Marian Evans,4.37222222222,2014.0,50 - 59
+413,,short,M,Gary Armour,4.37888888889,2014.0,
+414,53.0,short,F,Babs Whyte,4.37972222222,2014.0,50 - 59
+415,42.0,short,F,Julie Abrahams,4.40277777778,2014.0,40 - 49
+416,25.0,short,F,Laura Percy,4.43222222222,2014.0,20 - 29
+417,48.0,short,M,Robert Mathieson,4.43305555556,2014.0,40 - 49
+418,,short,F,Gazziella Gungui,4.47111111111,2014.0,
+419,,long,M,Crawford Whyte,4.55833333333,2014.0,
+420,44.0,long,M,Richard MacPherson,4.62444444444,2014.0,40 - 49
+421,20.0,short,M,Alan Davidson,4.62555555556,2014.0,20 - 29
+422,33.0,short,F,Inese Klucane,4.62555555556,2014.0,30 - 39
+423,35.0,short,M,James McMeekin,4.6325,2014.0,30 - 39
+424,34.0,short,F,Caroline Norrman,4.6325,2014.0,30 - 39
+425,38.0,long,F,Marie Meldrum,4.63277777778,2014.0,30 - 39
+426,35.0,short,F,Becki Marsland,4.68888888889,2014.0,30 - 39
+427,48.0,short,F,Emma Nelson,4.7325,2014.0,40 - 49
+428,27.0,long,M,Ewen MacGillivray,4.75416666667,2014.0,20 - 29
+429,47.0,long,M,Alan Quinn,4.82555555556,2014.0,40 - 49
+430,44.0,long,M,Iain Ross,4.8275,2014.0,40 - 49
+431,46.0,long,M,Brian Macleod,4.89944444444,2014.0,40 - 49
+432,46.0,short,F,Lynn O'Donnell,4.91972222222,2014.0,40 - 49
+433,32.0,long,M,Sean Morgan,4.92638888889,2014.0,30 - 39
+434,33.0,long,M,Cameron Miller,4.95305555556,2014.0,30 - 39
+435,43.0,long,M,Alex Maclean-Bristol,5.02611111111,2014.0,40 - 49
+436,49.0,long,M,Rob Wainwright,5.02611111111,2014.0,40 - 49
+437,33.0,long,M,Tom Davis,5.02611111111,2014.0,30 - 39
+438,44.0,long,M,Wil Tunnell,5.02611111111,2014.0,40 - 49
+439,42.0,long,M,Brian MacIntyre,5.02611111111,2014.0,40 - 49
+440,,long,M,John Mucklow,5.02611111111,2014.0,
+441,54.0,long,M,Michael Harper,5.14916666667,2014.0,50 - 59
+442,56.0,long,M,Stewart Ormond,5.14916666667,2014.0,50 - 59
+443,,short,F,Norma McMullan,5.18055555556,2014.0,
+444,45.0,long,M,Alan Joyce,5.24555555556,2014.0,40 - 49
+445,34.0,long,M,Ricky De Wet,5.30916666667,2014.0,30 - 39
+446,43.0,long,M,Gerard McHenry,5.3725,2014.0,40 - 49
+447,36.0,long,M,Alan Ross,5.48027777778,2014.0,30 - 39
+448,51.0,long,M,Jim Kirkwood,5.50722222222,2014.0,50 - 59
+449,52.0,long,M,Graeme Thomson,5.55444444444,2014.0,50 - 59
+450,38.0,long,M,Andy Russell,5.55472222222,2014.0,30 - 39
+451,64.0,long,M,Roger Dean,5.55472222222,2014.0,60 - 69
+452,32.0,long,F,Joanna Evans,5.57666666667,2014.0,30 - 39
+453,50.0,long,M,Ray Waters,5.73,2014.0,50 - 59
+454,42.0,long,M,Gordon Moir,5.73527777778,2014.0,40 - 49
+455,,long,M,Peter Gringo Denheen,5.73527777778,2014.0,
+456,,long,M,Mike Wood,5.7825,2014.0,
+457,56.0,long,M,Alan Thomson,5.98611111111,2014.0,50 - 59
+458,67.0,long,M,Ivan Stewart,6.04972222222,2014.0,60 - 69
+459,34.0,long,M,Jon Hammerman,6.13333333333,2014.0,30 - 39
+460,26.0,long,M,Kevin Macdonald,6.1375,2014.0,20 - 29
+461,49.0,long,M,Max Rollitt,6.13777777778,2014.0,40 - 49
+462,49.0,long,M,Mark Welsh,6.14944444444,2014.0,40 - 49
+463,30.0,long,M,Andrew Nicell,6.18916666667,2014.0,30 - 39
+464,57.0,long,M,Charles Nicell,6.18916666667,2014.0,50 - 59
+465,49.0,long,M,Andrew Hall,6.26444444444,2014.0,40 - 49
+466,64.0,long,M,Mark Moroney,6.265,2014.0,60 - 69
+467,50.0,long,M,Paul Rigby,6.26666666667,2014.0,50 - 59
+468,52.0,long,M,Peter Griffiths,6.44777777778,2014.0,50 - 59
+469,53.0,long,M,Tony Kilbourn,6.48,2014.0,50 - 59
+470,55.0,long,M,George Hunter,6.5625,2014.0,50 - 59
+471,,long,F,Kate Mucklow,6.57666666667,2014.0,
+472,,long,F,Frances MacIntyre,6.57694444444,2014.0,
+473,62.0,long,M,Derek Owen,6.79166666667,2014.0,60 - 69
+474,22.0,long,M,James Allen,6.86944444444,2014.0,20 - 29
+475,56.0,long,M,Steve Allen,6.86944444444,2014.0,50 - 59
+476,44.0,long,M,Alasdair Gibson,6.88888888889,2014.0,40 - 49
+477,44.0,long,M,Robert Simpson,6.88888888889,2014.0,40 - 49
+478,49.0,long,M,Martie van Tongeren,6.89722222222,2014.0,40 - 49
+479,54.0,long,M,Gary Lamont,7.03055555556,2014.0,50 - 59
+480,55.0,long,M,Sean Rafferty,7.04666666667,2014.0,50 - 59
+481,56.0,long,M,Graeme Frankland,7.055,2014.0,50 - 59
+482,55.0,long,M,Angus McIntosh,7.22305555556,2014.0,50 - 59
+483,39.0,long,M,James Hamilton,7.40861111111,2014.0,30 - 39
+484,42.0,long,M,Adrian Henzler,7.50222222222,2014.0,40 - 49
+485,41.0,long,M,Scott Reilly,7.68333333333,2014.0,40 - 49
+486,56.0,long,M,Bob House,7.75277777778,2014.0,50 - 59
+487,38.0,long,M,Chris Cripps,7.86444444444,2014.0,30 - 39
+488,43.0,long,F,Debs Cripps,7.86638888889,2014.0,40 - 49
+489,42.0,long,M,Gary Walker,7.89666666667,2014.0,40 - 49
+490,48.0,long,M,Gary O'Neill,7.91166666667,2014.0,40 - 49
+491,45.0,long,M,Andrew Currie,7.96388888889,2014.0,40 - 49
+492,52.0,long,M,Gary Morley,7.96388888889,2014.0,50 - 59
+493,52.0,long,M,Stephen Howard,7.96388888889,2014.0,50 - 59
+494,60.0,long,F,Sylvie Griffiths,8.125,2014.0,60 - 69
+495,30.0,long,F,Eileen Carnwath,8.17777777778,2014.0,30 - 39
+496,32.0,long,M,Andrew Carnwath,8.17777777778,2014.0,30 - 39
+497,47.0,long,F,Emma O'Neill,8.46666666667,2014.0,40 - 49
+498,60.0,long,M,William Caldwell,8.46666666667,2014.0,60 - 69
+499,52.0,long,M,Niall MacLean,8.58333333333,2014.0,50 - 59
+500,64.0,long,M,Gordon Trevor,8.68333333333,2014.0,60 - 69
+501,33.0,long,M,James Jones,8.96666666667,2014.0,30 - 39
+502,52.0,long,M,David Richards,8.96666666667,2014.0,50 - 59
+505,,long,M,Crawford Whyte,4.57277777778,2015.0,
+506,,long,M,Chris Lever,4.57361111111,2015.0,
+507,47.0,long,M,Brian Macleod,4.71055555556,2015.0,40 - 49
+508,,long,M,Gus Robertson,5.02083333333,2015.0,
+509,,long,M,Eoghann MacLean,5.0725,2015.0,
+510,45.0,long,M,Richard MacPherson,5.12222222222,2015.0,40 - 49
+511,28.0,long,F,Emma Lamont,5.13888888889,2015.0,20 - 29
+512,48.0,long,M,Alan Quinn,5.20416666667,2015.0,40 - 49
+513,37.0,long,M,Alan Ross,5.35222222222,2015.0,30 - 39
+514,,long,M,James Beveridge,5.45194444444,2015.0,
+515,58.0,long,M,Alan Beveridge,5.45194444444,2015.0,50 - 59
+516,44.0,long,M,Kristian Keegan,5.54861111111,2015.0,40 - 49
+517,,long,F,Megan Mowbray,5.60722222222,2015.0,
+518,,long,M,Gavin Prise,5.60722222222,2015.0,
+519,,long,M,Gordon Blair,5.64444444444,2015.0,
+520,48.0,long,M,Christopher Noble,5.7,2015.0,40 - 49
+521,33.0,long,M,Sean Morgan,5.77833333333,2015.0,30 - 39
+522,58.0,long,M,Stephen Butler,5.84444444444,2015.0,50 - 59
+523,55.0,long,M,Michael Harper,5.87083333333,2015.0,50 - 59
+524,54.0,long,M,Bill McFadden,5.98305555556,2015.0,50 - 59
+525,,long,M,Cecil McCullough,6.03888888889,2015.0,
+526,49.0,long,M,Douglas Anderson,6.08333333333,2015.0,40 - 49
+527,60.0,long,M,Timothy Laing,6.16666666667,2015.0,60 - 69
+528,,long,M,Andrew Tanner,6.1825,2015.0,
+529,33.0,long,F,Joanna Evans,6.25222222222,2015.0,30 - 39
+530,47.0,long,M,Gordon Milne,6.32222222222,2015.0,40 - 49
+531,46.0,long,M,Tom Barr,6.33583333333,2015.0,40 - 49
+532,,long,M,Duncan Brown,6.34416666667,2015.0,
+533,,long,M,Peter Mather,6.48333333333,2015.0,
+534,33.0,long,M,Andrew Carnwath,6.49166666667,2015.0,30 - 39
+535,53.0,long,M,Peter Griffiths,6.51111111111,2015.0,50 - 59
+536,,long,M,Gerald Lee,6.52888888889,2015.0,
+537,51.0,long,M,Ray Waters,6.52916666667,2015.0,50 - 59
+538,,long,M,Simon Gibbs,6.52916666667,2015.0,
+539,,long,M,William Gerry,6.57361111111,2015.0,
+540,53.0,long,M,Graeme Thomson,6.61388888889,2015.0,50 - 59
+541,,long,F,Helen Paxton-Steele,6.61388888889,2015.0,
+542,,long,M,Kevin Moore,6.61388888889,2015.0,
+543,,long,M,Maher McDonald,6.61388888889,2015.0,
+544,58.0,long,M,Peter Knowles,6.64583333333,2015.0,50 - 59
+545,,long,M,Jake  Backus,6.70333333333,2015.0,
+546,,long,M,Ian Harling,6.70333333333,2015.0,
+547,,long,M,Ian Preece,6.7075,2015.0,
+548,63.0,long,M,Derek Owen,6.90333333333,2015.0,60 - 69
+549,43.0,long,M,Scott Mackay,6.9275,2015.0,40 - 49
+550,48.0,long,M,Garry Sharpe,6.92777777778,2015.0,40 - 49
+551,57.0,long,M,Bob House,6.95555555556,2015.0,50 - 59
+552,,long,M,Graeme O'Brien,7.00694444444,2015.0,
+553,33.0,long,M,Paul Watson,7.05333333333,2015.0,30 - 39
+554,,long,F,Sarah Lumsden,7.08861111111,2015.0,
+555,29.0,long,M,Stephen Mudie,7.08861111111,2015.0,20 - 29
+556,56.0,long,M,Angus McIntosh,7.17222222222,2015.0,50 - 59
+557,,long,M,Gavin McGrath,7.25416666667,2015.0,
+558,,long,M,Ian Anderson,7.26388888889,2015.0,
+559,68.0,long,M,Philip Cottrill,7.4825,2015.0,60 - 69
+560,,long,M,Charlie Blair,7.62083333333,2015.0,
+561,,long,M,Elliot Longworth,7.65333333333,2015.0,
+562,,long,M,Christopher Bowles,7.65333333333,2015.0,
+563,,long,F,Naomi Longworth,7.65333333333,2015.0,
+564,68.0,long,M,Barry Johnson,7.82777777778,2015.0,60 - 69
+565,,long,M,Euan Waugh,8.02333333333,2015.0,
+566,43.0,long,M,Andrew Currie,8.44305555556,2015.0,40 - 49
+567,18.0,long,F,Hayley Howard,8.44305555556,2015.0,10 - 19
+568,49.0,long,M,Gary O'Neill,8.44833333333,2015.0,40 - 49
+569,53.0,long,M,Stephen Howard,8.44833333333,2015.0,50 - 59
+570,,long,F,Samantha Campbell,8.8875,2015.0,
+571,,long,M,Andrew Stott,8.8875,2015.0,
+572,53.0,long,M,David Richards,8.9,2015.0,50 - 59
+573,,long,M,Matthew Keenan,9.1,2015.0,
+574,,short,M,Richard Weatherill,2.59166666667,2015.0,
+575,,short,M,Jonathan  Keefe,2.59444444444,2015.0,
+576,,short,F,Marie  Meldrum,2.67666666667,2015.0,
+577,,short,M,Alastair Jackson,2.83888888889,2015.0,
+578,,short,M,Kenneth Mac-Leod,2.84166666667,2015.0,
+579,,short,M,John Manley,2.93,2015.0,
+580,33.0,short,M,Lee McIver,2.93472222222,2015.0,30 - 39
+581,30.0,short,M,Iain MacKenzie,2.94805555556,2015.0,30 - 39
+582,37.0,short,M,Gary Ross,2.98166666667,2015.0,30 - 39
+583,,short,M,Charlie Briggs,2.98722222222,2015.0,
+584,,short,F,Kiera Wilson,2.9875,2015.0,
+585,,short,M,Crawford Inglis,2.99305555556,2015.0,
+586,46.0,short,M,Alan Noble,3.22222222222,2015.0,40 - 49
+587,,short,,Gerry  Kangley,3.22611111111,2015.0,
+588,,short,M,Alastair  Gibson,3.32305555556,2015.0,
+589,28.0,short,M,Duncan Maclean,3.32777777778,2015.0,20 - 29
+590,,short,M,Sean Gaule,3.33111111111,2015.0,
+591,23.0,short,F,Kerry Prise,3.355,2015.0,20 - 29
+592,,short,M,David  Muir,3.42083333333,2015.0,
+593,,short,F,Heather Brown,3.57361111111,2015.0,
+594,,short,M,Lewis  Dillon,3.63222222222,2015.0,
+595,,short,M,Stuart Adlington,3.68472222222,2015.0,
+596,58.0,short,M,Tony Ball,3.68666666667,2015.0,50 - 59
+597,,short,F,Kate O'Brien,3.75527777778,2015.0,
+598,,short,M,Robert Jackson,3.75527777778,2015.0,
+599,,short,M,Donald Colin Macnab,3.76138888889,2015.0,
+600,54.0,short,F,Babs Whyte,3.89722222222,2015.0,50 - 59
+601,,short,F,Julie Harling,3.96638888889,2015.0,
+602,,short,M,Andrew Coleman,3.97083333333,2015.0,
+603,51.0,short,M,Martin Murray,3.97083333333,2015.0,50 - 59
+604,58.0,short,M,John McMeeken,3.97083333333,2015.0,50 - 59
+605,49.0,short,F,Elly Veitch,4.03333333333,2015.0,40 - 49
+606,41.0,short,F,Vanessa Maclean,4.04527777778,2015.0,40 - 49
+607,36.0,short,F,Becki Marsland,4.04611111111,2015.0,30 - 39
+608,,short,F,Jane Lunney,4.28666666667,2015.0,
+609,43.0,short,M,Mark Lunney,4.28666666667,2015.0,40 - 49
+610,48.0,short,F,Emma O'Neill,4.38944444444,2015.0,40 - 49
+611,53.0,short,M,Niall MacLean,4.38944444444,2015.0,50 - 59
+612,,short,F,Vivienne Mather,4.50861111111,2015.0,
+613,61.0,short,F,Sylvie Griffiths,4.50861111111,2015.0,60 - 69
+614,38.0,short,M,Jamie Fisher,4.54083333333,2015.0,30 - 39
+615,,short,F,Alison McNeillage,4.57833333333,2015.0,
+616,49.0,short,M,Robert Mathieson,4.58277777778,2015.0,40 - 49
+617,49.0,short,F,Emma Nelson,4.68888888889,2015.0,40 - 49
+618,,short,M,John Gell,4.70972222222,2015.0,
+619,,short,F,Sandra  Stuart,4.96333333333,2015.0,
+620,58.0,short,M,Alaister McIntosh,5.14444444444,2015.0,50 - 59
+621,,short,F,Clare House,5.58277777778,2015.0,
+622,,short,F,Jo Kilbourn,5.58277777778,2015.0,
+623,,short,F,Kerry Moore,5.76,2015.0,
+624,,short,M,Peter Villain,5.76,2015.0,
+625,,short,M,Paul Moore,5.76,2015.0,
+626,44.0,short,M,Jonathan Keefe,2.41444444444,2016.0,40 - 49
+627,,short,M,Tom Graham,2.51666666667,2016.0,
+628,32.0,short,M,Iain Mackenzie,2.525,2016.0,30 - 39
+629,,short,M,Davie Graham,2.57222222222,2016.0,
+630,,short,M,Stuart Mackie,2.68333333333,2016.0,
+631,,short,M,Graham Bruce Richards,2.6875,2016.0,
+632,,short,M,Ian Malcolm,2.69166666667,2016.0,
+633,,short,M,Richard Sievwright,2.70833333333,2016.0,
+634,,short,M,Reuben O'Connell,2.76111111111,2016.0,
+635,,short,M,Gregor Brodie,2.81388888889,2016.0,
+636,,short,M,Lewis Smith,2.84166666667,2016.0,
+637,,short,M,Paul Wilson,2.86666666667,2016.0,
+638,45.0,short,M,Gerard McHenry,2.90111111111,2016.0,40 - 49
+639,62.0,short,M,Lester Cruickshank,2.94166666667,2016.0,60 - 69
+640,32.0,short,F,Fiona Beveridge,2.99611111111,2016.0,30 - 39
+641,,short,M,Simon Bartle,3.08333333333,2016.0,
+642,,short,M,Bill Mumford,3.14444444444,2016.0,
+643,,short,F,Bregje van Veelen,3.14583333333,2016.0,
+644,,short,M,Andy Ruck,3.14722222222,2016.0,
+645,,short,M,James Lindsay,3.16527777778,2016.0,
+646,,short,M,James Mackenzie,3.16527777778,2016.0,
+647,,short,M,Shane Cadzow,3.17388888889,2016.0,
+648,,short,M,Geoff Adams,3.21916666667,2016.0,
+649,50.0,short,F,Elly Veitch,3.22027777778,2016.0,50 - 59
+650,,short,F,Alison C MacLennan,3.25694444444,2016.0,
+651,,short,M,Bruce Chapple,3.31583333333,2016.0,
+652,59.0,short,M,Tony Ball,3.32222222222,2016.0,50 - 59
+653,19.0,short,M,Andrew Bowman,3.34583333333,2016.0,10 - 19
+654,,short,M,Peter Macgregor,3.41444444444,2016.0,
+655,35.0,short,F,Inese Klucane,3.43333333333,2016.0,30 - 39
+656,49.0,short,F,Michelle Murchie,3.45416666667,2016.0,40 - 49
+657,,short,M,Aj Greenway,3.50722222222,2016.0,
+658,57.0,short,M,Neil MacKinnon,3.52166666667,2016.0,50 - 59
+659,,short,M,Griff Jones,3.52777777778,2016.0,
+660,,short,M,Jamie Maxwell,3.55222222222,2016.0,
+661,,short,F,Jessica Boucher,3.55277777778,2016.0,
+662,,short,M,Gareth Hughes,3.595,2016.0,
+663,27.0,short,F,Laura Percy,3.7125,2016.0,20 - 29
+664,46.0,short,M,Colin Tevendale,3.71527777778,2016.0,40 - 49
+665,,short,M,Graham Nicholson,3.71805555556,2016.0,
+666,,short,M,Martin Greig,3.72361111111,2016.0,
+667,,short,F,Keri Greig,3.75611111111,2016.0,
+668,,short,F,Shona Greig,3.75611111111,2016.0,
+669,51.0,short,F,Moira McKelvie,3.77444444444,2016.0,50 - 59
+670,,short,M,Pat Morris,3.85833333333,2016.0,
+671,,short,M,Dan Wehrly,3.85833333333,2016.0,
+672,,short,M,Paul Ingram,3.87361111111,2016.0,
+673,,short,M,Neil Collins,3.91527777778,2016.0,
+674,35.0,short,F,Gemma Queen,3.93472222222,2016.0,30 - 39
+675,,short,F,Jeanette Cutlack,3.96083333333,2016.0,
+676,,short,M,Sam Cutlack,3.96083333333,2016.0,
+677,59.0,short,M,Tom McGovern,4.00972222222,2016.0,50 - 59
+678,36.0,short,F,Madeline Warriner,4.02111111111,2016.0,30 - 39
+679,44.0,short,M,Tim Ellis,4.025,2016.0,40 - 49
+680,,short,F,Jennifer Cleland,4.03055555556,2016.0,
+681,,short,M,Ian Findlay,4.03277777778,2016.0,
+682,45.0,short,M,Gordon Allan,4.10138888889,2016.0,40 - 49
+683,,short,M,Richard Durell,4.14666666667,2016.0,
+684,,short,M,Philip Black,4.14666666667,2016.0,
+685,,short,F,Fiona Ward,4.19027777778,2016.0,
+686,,short,M,Fergus O'Brien,4.19027777778,2016.0,
+687,,short,M,Jack Steel,4.21388888889,2016.0,
+688,,short,M,Andrew Coleman,4.24861111111,2016.0,
+689,,short,F,Gillian Howie,4.30833333333,2016.0,
+690,,short,M,Martin Howie,4.31388888889,2016.0,
+691,39.0,short,M,Jamie Fisher,4.335,2016.0,30 - 39
+692,,short,M,Graham Thoms,4.34944444444,2016.0,
+693,57.0,short,M,Angus McIntosh,4.35416666667,2016.0,50 - 59
+694,,short,M,James Robinson,4.36388888889,2016.0,
+695,,short,F,Frances Glass,4.36388888889,2016.0,
+696,,short,F,Lindsey Ritchie,4.38305555556,2016.0,
+697,49.0,short,M,Darren Souter,4.39777777778,2016.0,40 - 49
+698,54.0,short,M,Alasdair McCabe,4.39777777778,2016.0,50 - 59
+699,,short,M,Brian Kristensen,4.40277777778,2016.0,
+700,,short,F,Laura Hendry-Kristensen,4.40277777778,2016.0,
+701,,short,M,Peter Creech,4.40277777778,2016.0,
+702,,short,F,Olwen Hemmings,4.40277777778,2016.0,
+703,,short,F,Clare Little,4.56527777778,2016.0,
+704,,short,M,Graham Steel,4.56638888889,2016.0,
+705,,short,F,Rebecca Drummond,4.65222222222,2016.0,
+706,,short,F,Morven MacGregor,4.65222222222,2016.0,
+707,,short,F,Cora Donaldson,4.65277777778,2016.0,
+708,,short,F,Caitriona Drummond,4.65277777778,2016.0,
+709,59.0,short,M,Alaister McIntosh,4.75833333333,2016.0,50 - 59
+710,,short,F,Janet Hunter,4.87305555556,2016.0,
+711,,short,F,Tooti Cadzow,4.87305555556,2016.0,
+712,,short,M,Jamie Howard,4.87305555556,2016.0,
+713,,short,M,Mathew Anderson,4.87305555556,2016.0,
+714,,short,M,Andrew O'Neil,4.91277777778,2016.0,
+715,,short,F,Carrie-Anne Clark,5.015,2016.0,
+716,53.0,short,M,David Smart,5.09444444444,2016.0,50 - 59
+717,54.0,short,F,Anne Smart,5.09444444444,2016.0,50 - 59
+718,,short,F,Natasha Martin,5.13111111111,2016.0,
+719,50.0,short,F,Emma Nelson,5.23527777778,2016.0,50 - 59
+720,54.0,short,M,Ian Fairnington,5.23527777778,2016.0,50 - 59
+721,,short,F,Juliette Summers,5.27083333333,2016.0,
+722,,short,F,Tally Tunnell,5.27083333333,2016.0,
+723,,short,F,Sheila Rendall,5.36666666667,2016.0,
+724,,short,F,Trish Warren,5.76333333333,2016.0,
+725,54.0,short,F,Carol Manson,5.76333333333,2016.0,50 - 59
+730,,long,M,Tim Dyer,4.32333333333,2016.0,
+731,,long,M,William Gerry,4.44111111111,2016.0,
+732,48.0,long,M,Brian Macleod,4.54666666667,2016.0,40 - 49
+733,,long,M,Eoghann MacLean,4.58611111111,2016.0,
+734,,long,M,Rob Wainright,4.70111111111,2016.0,
+735,,long,M,Robert Fargo,4.70722222222,2016.0,
+736,46.0,long,M,Iain Ross,4.70972222222,2016.0,40 - 49
+737,,long,M,William MacLennan,4.79527777778,2016.0,
+738,,long,M,Niall Campbell,4.88111111111,2016.0,
+739,34.0,long,M,Neil Reid,4.91666666667,2016.0,30 - 39
+740,37.0,long,M,Calum Robb,5.06666666667,2016.0,30 - 39
+741,,long,M,John Ralston,5.08194444444,2016.0,
+742,54.0,long,M,Robin Dunlop,5.09722222222,2016.0,50 - 59
+743,,long,M,Paul Silvester,5.1375,2016.0,
+744,45.0,long,M,Kristian Keegan,5.16027777778,2016.0,40 - 49
+745,43.0,long,M,Tim Griffin,5.16527777778,2016.0,40 - 49
+746,,long,M,Jonathan Moseley,5.24388888889,2016.0,
+747,54.0,long,M,Richard Scoble,5.26111111111,2016.0,50 - 59
+748,,long,M,Ian Cammack,5.29916666667,2016.0,
+749,58.0,long,M,Stewart Ormond,5.34055555556,2016.0,50 - 59
+750,,long,M,Stewart Culross,5.37416666667,2016.0,
+751,,long,M,Hamish Hall,5.37777777778,2016.0,
+752,49.0,long,M,Alan Quinn,5.37777777778,2016.0,40 - 49
+753,,long,M,Andy Douglas,5.40416666667,2016.0,
+754,,long,M,Robert Greig,5.48527777778,2016.0,
+755,44.0,long,M,John Coyle,5.51388888889,2016.0,40 - 49
+756,,long,M,George Goldsmith,5.52361111111,2016.0,
+757,,long,M,Ewan Chesser,5.56111111111,2016.0,
+758,55.0,long,M,Bill McFadden,5.56666666667,2016.0,50 - 59
+759,,long,M,David Buchanan,5.59388888889,2016.0,
+760,,long,M,Donald Munro,5.65,2016.0,
+761,,long,M,Hugo Barker,5.66861111111,2016.0,
+762,,long,M,Graeme Rogerson,5.7075,2016.0,
+763,,long,M,Gerard Dodds,5.73222222222,2016.0,
+764,,long,M,John Baikie,5.73416666667,2016.0,
+765,49.0,long,M,Alec Murchie,5.77083333333,2016.0,40 - 49
+766,,long,M,Alan Fox,5.77472222222,2016.0,
+767,30.0,long,F,Jenny Reid,5.79638888889,2016.0,30 - 39
+768,48.0,long,M,Paul Davies,5.81194444444,2016.0,40 - 49
+769,,long,M,Peter Hendry,5.97777777778,2016.0,
+770,,long,M,Ed Walker,5.98055555556,2016.0,
+771,,long,M,Philip Addis,5.98055555556,2016.0,
+772,,long,M,John Speakman,5.98055555556,2016.0,
+773,38.0,long,M,Alan Ross,6.03055555556,2016.0,30 - 39
+774,,long,M,Ralph Watson,6.07444444444,2016.0,
+775,58.0,long,M,Alan Thomson,6.12055555556,2016.0,50 - 59
+776,,long,M,Allan Peacock,6.13944444444,2016.0,
+777,,long,M,Stephen Gornall,6.13944444444,2016.0,
+778,47.0,long,M,Alan Noble,6.14444444444,2016.0,40 - 49
+779,,long,M,John Kennedy,6.15555555556,2016.0,
+780,,long,M,Stuart Waltho,6.17777777778,2016.0,
+781,,long,M,Kenneth Locke,6.18111111111,2016.0,
+782,,long,M,Joe Wallace,6.23472222222,2016.0,
+783,,long,M,Duncan Brown,6.25555555556,2016.0,
+784,,long,M,Stephen Spencer,6.25722222222,2016.0,
+785,54.0,long,M,Graeme Thomson,6.26444444444,2016.0,50 - 59
+786,,long,M,James Stark,6.2875,2016.0,
+787,,long,M,Andrew Ritchie,6.2875,2016.0,
+788,46.0,long,M,Wil Tunnell,6.30416666667,2016.0,40 - 49
+789,,long,M,Benn Hitchen,6.31527777778,2016.0,
+790,,long,M,Andrew Smith,6.34305555556,2016.0,
+791,44.0,long,M,Ramon Lopez,6.35277777778,2016.0,40 - 49
+792,,long,M,Angus MacEachran,6.35972222222,2016.0,
+793,,long,M,Niki Clark,6.37361111111,2016.0,
+794,,long,F,Caragh McWhirr,6.37444444444,2016.0,
+795,,long,M,Steve Brown,6.37833333333,2016.0,
+796,,long,M,Lee Wren,6.37833333333,2016.0,
+797,,long,M,Jody Wren,6.37833333333,2016.0,
+798,34.0,long,M,Al Warren,6.38805555556,2016.0,30 - 39
+799,,long,M,Graeme Birkhead,6.39583333333,2016.0,
+800,,long,M,Andy Kerry,6.40333333333,2016.0,
+801,,long,M,Lee Warwick,6.40833333333,2016.0,
+802,44.0,long,M,Ian Smith,6.46166666667,2016.0,40 - 49
+803,39.0,long,M,Euan Jamieson,6.47861111111,2016.0,30 - 39
+804,44.0,long,M,Scott Mackay,6.54972222222,2016.0,40 - 49
+805,39.0,long,M,Daniel Mclean,6.55694444444,2016.0,30 - 39
+806,,long,M,Iain Roberts,6.55916666667,2016.0,
+807,56.0,long,M,Nicholas Horne,6.5875,2016.0,50 - 59
+808,,long,M,James O'Neill,6.59166666667,2016.0,
+809,69.0,long,M,Barry Johnson,6.59444444444,2016.0,60 - 69
+810,69.0,long,M,Philip Cottrill,6.59444444444,2016.0,60 - 69
+811,59.0,long,M,Peter Knowles,6.59805555556,2016.0,50 - 59
+812,,long,M,Ben Kimball,6.65611111111,2016.0,
+813,,long,M,Graeme Smith,6.67083333333,2016.0,
+814,49.0,long,M,Garry Sharpe,6.67083333333,2016.0,40 - 49
+815,56.0,long,M,Iain Maltby,6.68138888889,2016.0,50 - 59
+816,54.0,long,M,Peter Flett,6.71333333333,2016.0,50 - 59
+817,,long,M,Mick Creary,6.76472222222,2016.0,
+818,,long,M,David Bremner,6.76527777778,2016.0,
+819,,long,F,Sarah Hamilton,6.77027777778,2016.0,
+820,,long,M,Bill Hamilton,6.77027777778,2016.0,
+821,49.0,long,M,Scott Moyies,6.82888888889,2016.0,40 - 49
+822,,long,F,Christine Myerscough,6.84722222222,2016.0,
+823,,long,M,John Myerscough,6.84722222222,2016.0,
+824,,long,F,Helen Paxton-Steele,6.85833333333,2016.0,
+825,49.0,long,M,Stuart Irvine,6.91388888889,2016.0,40 - 49
+826,,long,M,John Christie,6.93277777778,2016.0,
+827,,long,M,Jim Hogsflesh,6.96111111111,2016.0,
+828,,long,M,Ross Mathie,6.96166666667,2016.0,
+829,,long,M,John Hinchliffe,6.97,2016.0,
+830,,long,M,Rod McCarthy,7.02083333333,2016.0,
+831,,long,M,Colin Campbell,7.02083333333,2016.0,
+832,,long,M,Dave Simpson,7.03472222222,2016.0,
+833,64.0,long,M,Derek Owen,7.05138888889,2016.0,60 - 69
+834,,long,M,Frank Masson,7.08694444444,2016.0,
+835,,long,M,Garry Rendall,7.08694444444,2016.0,
+836,,long,M,Roy Cowie,7.08694444444,2016.0,
+837,,long,M,Ian Wells,7.12611111111,2016.0,
+838,,long,M,Chi Kong Cham,7.13972222222,2016.0,
+839,38.0,long,M,Gary Ross,7.1425,2016.0,30 - 39
+840,49.0,long,M,Steve Harris,7.22166666667,2016.0,40 - 49
+841,,long,M,Martin Perigo,7.22444444444,2016.0,
+842,,long,M,Craig Marshall,7.24555555556,2016.0,
+843,,long,F,Kerry Froud,7.25277777778,2016.0,
+844,42.0,long,F,Vanessa Maclean,7.25277777778,2016.0,40 - 49
+845,,long,M,Andrew Harvey,7.26527777778,2016.0,
+846,,long,M,Brian Martin,7.27,2016.0,
+847,,long,M,Tom Baillie,7.31611111111,2016.0,
+848,,long,M,John McLaughlin,7.31611111111,2016.0,
+849,,long,M,Neil Baillie,7.32222222222,2016.0,
+850,55.0,long,M,Chris Wigens,7.325,2016.0,50 - 59
+851,,long,M,Graeme Forbes,7.36666666667,2016.0,
+852,54.0,long,M,Stephen Howard,7.38611111111,2016.0,50 - 59
+853,19.0,long,F,Hayley Howard,7.38611111111,2016.0,10 - 19
+854,,long,M,Symon Buckman,7.42166666667,2016.0,
+855,,long,M,Alasdair Smith,7.42166666667,2016.0,
+856,,long,M,Simon Rains,7.44722222222,2016.0,
+857,,long,M,Christopher Thorne,7.44722222222,2016.0,
+858,,long,M,Andrew Harrison,7.44722222222,2016.0,
+859,58.0,long,M,Bob House,7.62638888889,2016.0,50 - 59
+860,62.0,long,F,Sylvie Griffiths,7.63611111111,2016.0,60 - 69
+861,54.0,long,M,Peter Griffiths,7.63611111111,2016.0,50 - 59
+862,,long,F,Jessica Higton,7.65277777778,2016.0,
+863,,long,F,Anne Langley,7.65277777778,2016.0,
+864,54.0,long,M,David Richards,7.73194444444,2016.0,50 - 59
+865,54.0,long,M,Stephen Peacock,7.74527777778,2016.0,50 - 59
+866,,long,M,Chris Wright,7.75222222222,2016.0,
+867,49.0,long,M,Mike Cheyne,7.82666666667,2016.0,40 - 49
+868,55.0,long,M,Ian Wilson,7.82666666667,2016.0,50 - 59
+869,,long,M,Alan Findlay,7.87555555556,2016.0,
+870,,long,M,Lorn Smith,7.87555555556,2016.0,
+871,,long,M,David Fernie,7.92083333333,2016.0,
+872,,long,M,David Small,7.92083333333,2016.0,
+873,,long,M,Graeme Sinclair,7.92222222222,2016.0,
+874,,long,F,Sharon Hayes,8.00944444444,2016.0,
+875,,long,M,Colin Menzies,8.00944444444,2016.0,
+876,44.0,long,M,Alasdair Malcolm,8.01666666667,2016.0,40 - 49
+877,39.0,long,M,John Weatheritt,8.0625,2016.0,30 - 39
+878,,long,F,Hilary Fleming,8.0625,2016.0,
+879,,long,F,Linzi Lumsden,8.09138888889,2016.0,
+880,,long,M,Colin Bankes-Jones,8.13277777778,2016.0,
+881,59.0,long,M,Graham Wood,8.46666666667,2016.0,50 - 59
+882,43.0,long,M,Scott Reilly,9.5,2016.0,40 - 49
+883,,long,M,Simon Welch,9.5,2016.0,
+884,,long,M,Alexander Proctor,9.56666666667,2016.0,
+890,30.0,long,M,Jamie Nellany,4.49188888889,2017.0,30 - 39
+891,30.0,long,M,David Ryan,4.54175,2017.0,30 - 39
+892,50.0,long,M,Brian Macleod,4.60938888889,2017.0,50 - 59
+893,30.0,long,M,Robert Lee,4.63158333333,2017.0,30 - 39
+894,20.0,long,M,Aaron Johnson,4.71133333333,2017.0,20 - 29
+895,45.0,long,M,Iain Ross,4.71227777778,2017.0,40 - 49
+896,30.0,long,F,Katie Connor,4.73038888889,2017.0,30 - 39
+897,40.0,long,M,Jamie Smith,4.74838888889,2017.0,40 - 49
+898,60.0,long,M,Alan Beveridge,4.79719444444,2017.0,60 - 69
+899,45.0,long,M,Gregor Watt,4.82219444444,2017.0,40 - 49
+900,45.0,long,M,Jonathan Keefe,4.84136111111,2017.0,40 - 49
+901,35.0,long,M,Cameron Miller,4.88219444444,2017.0,30 - 39
+902,45.0,long,M,Scott MacPherson,4.90044444444,2017.0,40 - 49
+903,40.0,long,M,John McCrory,4.98880555556,2017.0,40 - 49
+904,55.0,long,M,Richard Scoble,4.98972222222,2017.0,50 - 59
+905,50.0,long,M,Christopher Noble,4.99888888889,2017.0,50 - 59
+906,50.0,long,M,Alan Quinn,5.06183333333,2017.0,50 - 59
+907,35.0,long,M,Stuart Russell,5.06261111111,2017.0,30 - 39
+908,40.0,long,M,Michael Malone,5.07438888889,2017.0,40 - 49
+909,20.0,long,M,Matthew Kirkham,5.10222222222,2017.0,20 - 29
+910,45.0,long,M,Richard MacPherson,5.10252777778,2017.0,40 - 49
+911,40.0,long,M,Umar Saleem,5.11041666667,2017.0,40 - 49
+912,50.0,long,M,Greig Avinou,5.12033333333,2017.0,50 - 59
+913,35.0,long,M,Steven Groom,5.13302777778,2017.0,30 - 39
+914,35.0,long,M,Jamie Taylor,5.16352777778,2017.0,30 - 39
+915,30.0,long,F,Emma Lamont,5.17963888889,2017.0,30 - 39
+916,45.0,long,M,Steven Fyfe,5.219,2017.0,40 - 49
+917,50.0,long,M,Frazer Graham,5.22033333333,2017.0,50 - 59
+918,60.0,long,M,Stephen Butler,5.24297222222,2017.0,60 - 69
+919,35.0,long,M,Neil Reid,5.25525,2017.0,30 - 39
+920,35.0,long,M,Bruce Robertson,5.34352777778,2017.0,30 - 39
+921,55.0,long,M,Graeme Tosh,5.35586111111,2017.0,50 - 59
+922,50.0,long,M,Andrew Currie,5.45647222222,2017.0,50 - 59
+923,45.0,long,M,John Coyle,5.47302777778,2017.0,40 - 49
+924,45.0,long,F,Julie Fitzpatrick,5.56141666667,2017.0,40 - 49
+925,35.0,long,M,Gavin Third,5.56205555556,2017.0,30 - 39
+926,55.0,long,M,Robin Dunlop,5.56391666667,2017.0,50 - 59
+927,45.0,long,M,Mark Winton,5.66075,2017.0,40 - 49
+928,50.0,long,M,Dave Partington,5.68877777778,2017.0,50 - 59
+929,40.0,long,M,Raymond McLellan,5.71205555556,2017.0,40 - 49
+930,50.0,long,M,Stuart Small,5.71266666667,2017.0,50 - 59
+931,70.0,long,M,Raymond Pringle,5.72277777778,2017.0,70 - 79
+932,45.0,long,M,Shaun Harris,5.75041666667,2017.0,40 - 49
+933,45.0,long,M,Duncan Helm,5.75886111111,2017.0,40 - 49
+934,35.0,long,M,Al Warren,5.77497222222,2017.0,30 - 39
+935,45.0,long,M,Gordon Milne,5.79125,2017.0,40 - 49
+936,45.0,long,M,Tibor Antal,5.87183333333,2017.0,40 - 49
+937,50.0,long,M,Keith Parlour,5.87919444444,2017.0,50 - 59
+938,25.0,long,M,Christopher Gilbertson,5.87952777778,2017.0,20 - 29
+939,25.0,long,M,William Calder,5.95322222222,2017.0,20 - 29
+940,55.0,long,M,Peter Calder,5.96316666667,2017.0,50 - 59
+941,20.0,long,M,Andrew Bowman,5.97494444444,2017.0,20 - 29
+942,45.0,long,M,Martin Tait,5.99377777778,2017.0,40 - 49
+943,45.0,long,M,Douglas Wright,6.0255,2017.0,40 - 49
+944,45.0,long,M,Lee Rae-Byford,6.02577777778,2017.0,40 - 49
+945,50.0,long,M,Eric Blackhall,6.06841666667,2017.0,50 - 59
+946,40.0,long,M,Chris Setters,6.08233333333,2017.0,40 - 49
+947,45.0,long,M,Mike Custer,6.10583333333,2017.0,40 - 49
+948,55.0,long,M,David Nish,6.15961111111,2017.0,50 - 59
+949,50.0,long,M,Alec Murchie,6.17430555556,2017.0,50 - 59
+950,60.0,long,M,Alan Thomson,6.17694444444,2017.0,60 - 69
+951,45.0,long,F,Angela Salmons,6.19391666667,2017.0,40 - 49
+952,50.0,long,M,Simon Hammond,6.21194444444,2017.0,50 - 59
+953,40.0,long,M,Stephen Simpson,6.25425,2017.0,40 - 49
+954,70.0,long,M,Philip Cottrill,6.28197222222,2017.0,70 - 79
+955,40.0,long,M,Daniel Mclean,6.31772222222,2017.0,40 - 49
+956,55.0,long,M,Peter Flett,6.37441666667,2017.0,50 - 59
+957,55.0,long,M,Nigel Lambert,6.38702777778,2017.0,50 - 59
+958,65.0,long,M,Alan Bond,6.42075,2017.0,60 - 69
+959,45.0,long,M,Ian Smith,6.45052777778,2017.0,40 - 49
+960,15.0,long,M,Oliver Smith,6.45233333333,2017.0,10 - 19
+961,45.0,long,M,Ramon Lopez,6.47369444444,2017.0,40 - 49
+962,45.0,long,F,Sarah Dunton,6.47655555556,2017.0,40 - 49
+963,35.0,long,M,Hugh Thomas,6.53061111111,2017.0,30 - 39
+964,40.0,long,M,Tom Bell,6.53130555556,2017.0,40 - 49
+965,55.0,long,M,Roberto Correale,6.5575,2017.0,50 - 59
+966,60.0,long,M,Ian Wilson,6.56883333333,2017.0,60 - 69
+967,40.0,long,M,Euan Jamieson,6.57105555556,2017.0,40 - 49
+968,60.0,long,M,Grant Urquhart,6.57216666667,2017.0,60 - 69
+969,35.0,long,M,Paul Watson,6.57702777778,2017.0,30 - 39
+970,45.0,long,M,Alex Rennie,6.59197222222,2017.0,40 - 49
+971,70.0,long,M,Barry Johnson,6.59561111111,2017.0,70 - 79
+972,50.0,long,M,Stuart Irvine,6.61230555556,2017.0,50 - 59
+973,45.0,long,M,John Wright,6.61802777778,2017.0,40 - 49
+974,45.0,long,M,Scott Mackay,6.63541666667,2017.0,40 - 49
+975,55.0,long,F,Alison Johnston,6.65225,2017.0,50 - 59
+976,65.0,long,M,Derek Owen,6.66930555556,2017.0,60 - 69
+977,60.0,long,M,George Hansen,6.68302777778,2017.0,60 - 69
+978,55.0,long,M,Graeme Thomson,6.68322222222,2017.0,50 - 59
+979,35.0,long,M,Scott Pye,6.68322222222,2017.0,30 - 39
+980,50.0,long,M,Paul Morris,6.71758333333,2017.0,50 - 59
+981,40.0,long,M,Jeremy Humphrey,6.71772222222,2017.0,40 - 49
+982,50.0,long,M,Garry Sharpe,6.71861111111,2017.0,50 - 59
+983,25.0,long,M,Robert Whitten,6.72469444444,2017.0,20 - 29
+984,60.0,long,M,Peter Knowles,6.73663888889,2017.0,60 - 69
+985,30.0,long,F,Jenny Reid,6.76233333333,2017.0,30 - 39
+986,55.0,long,F,Toni Swiffen,6.76280555556,2017.0,50 - 59
+987,55.0,long,M,James Swiffen,6.76286111111,2017.0,50 - 59
+988,50.0,long,M,Nicola Di Tullio,6.87302777778,2017.0,50 - 59
+989,50.0,long,M,Alan Peirson,6.88347222222,2017.0,50 - 59
+990,55.0,long,M,Chris Gilbertson,6.88616666667,2017.0,50 - 59
+991,55.0,long,M,Mike Gronski,6.89480555556,2017.0,50 - 59
+992,35.0,long,M,Colin Mackintosh,6.97944444444,2017.0,30 - 39
+993,40.0,long,F,Sandra McKinnon,6.98016666667,2017.0,40 - 49
+994,30.0,long,M,David Cranna,7.04855555556,2017.0,30 - 39
+995,40.0,long,F,Iona Kewney,7.05033333333,2017.0,40 - 49
+996,30.0,long,F,Lara Gray,7.0515,2017.0,30 - 39
+997,45.0,long,M,Gavin Simpson,7.15152777778,2017.0,40 - 49
+998,45.0,long,M,Lindsay Smith,7.15344444444,2017.0,40 - 49
+999,45.0,long,M,Edny van den Broek,7.17294444444,2017.0,40 - 49
+1000,40.0,long,F,Barbara Kuske,7.18752777778,2017.0,40 - 49
+1001,50.0,long,M,Robert Adams,7.21188888889,2017.0,50 - 59
+1002,40.0,long,F,Kirstin Arthur,7.21213888889,2017.0,40 - 49
+1003,55.0,long,M,Kenneth MacLean,7.24197222222,2017.0,50 - 59
+1004,35.0,long,F,Lisa Paxton,7.26869444444,2017.0,30 - 39
+1005,50.0,long,F,Trish Craig,7.27519444444,2017.0,50 - 59
+1006,55.0,long,M,Nichol Kerr,7.27558333333,2017.0,50 - 59
+1007,65.0,long,M,Michael Ingram,7.28072222222,2017.0,60 - 69
+1008,50.0,long,F,Lesley Stark,7.29966666667,2017.0,50 - 59
+1009,50.0,long,M,Allan Dunlop,7.30219444444,2017.0,50 - 59
+1010,60.0,long,M,Lee Broadway,7.31097222222,2017.0,60 - 69
+1011,40.0,long,F,Donna Fyfe,7.33608333333,2017.0,40 - 49
+1012,55.0,long,M,Jon Parlett,7.35583333333,2017.0,50 - 59
+1013,55.0,long,M,Vince Summers,7.35633333333,2017.0,50 - 59
+1014,50.0,long,F,Laura Howie,7.35925,2017.0,50 - 59
+1015,60.0,long,M,Ian Whyte,7.41352777778,2017.0,60 - 69
+1016,45.0,long,F,Lisa Richardson,7.41366666667,2017.0,40 - 49
+1017,50.0,long,F,Theresa Gariepy,7.42086111111,2017.0,50 - 59
+1018,50.0,long,F,Leanne Haining,7.44380555556,2017.0,50 - 59
+1019,55.0,long,M,Andrew Haining,7.44544444444,2017.0,50 - 59
+1020,55.0,long,F,Carole Muir,7.44925,2017.0,50 - 59
+1021,55.0,long,M,Jerry Fraser,7.44975,2017.0,50 - 59
+1022,50.0,long,M,Scott Moyies,7.50194444444,2017.0,50 - 59
+1023,30.0,long,F,Louise Cruickshank,7.58569444444,2017.0,30 - 39
+1024,40.0,long,M,John Weatheritt,7.6045,2017.0,40 - 49
+1025,30.0,long,M,Tony Goat,7.61566666667,2017.0,30 - 39
+1026,35.0,long,M,Michael Laing,7.63908333333,2017.0,30 - 39
+1027,55.0,long,M,Peter Kinselley,7.729,2017.0,50 - 59
+1028,30.0,long,M,Norman Matheson,7.7345,2017.0,30 - 39
+1029,35.0,long,M,Andrew Batty,7.74822222222,2017.0,30 - 39
+1030,50.0,long,M,Myles Marshall,7.81741666667,2017.0,50 - 59
+1031,30.0,long,F,Harriet Burn,7.92819444444,2017.0,30 - 39
+1032,40.0,long,M,Michael Strauss,7.97461111111,2017.0,40 - 49
+1033,65.0,long,F,Barbara Dillon,8.01747222222,2017.0,60 - 69
+1034,50.0,long,M,Gary Holman,8.05361111111,2017.0,50 - 59
+1035,45.0,long,M,Alasdair Malcolm,8.05480555556,2017.0,40 - 49
+1036,50.0,long,F,Dianne Manson,8.11416666667,2017.0,50 - 59
+1037,50.0,long,M,Stuart Clarke,8.14380555556,2017.0,50 - 59
+1038,50.0,long,F,Brenda Mitchell,8.15269444444,2017.0,50 - 59
+1039,50.0,long,F,Susanne Pugh,8.21758333333,2017.0,50 - 59
+1040,30.0,long,M,John Thomson,8.21977777778,2017.0,30 - 39
+1041,55.0,long,M,Alan Cottingham,8.30683333333,2017.0,50 - 59
+1042,60.0,long,M,David Howie,8.31413888889,2017.0,60 - 69
+1043,65.0,long,M,Gordon Trevor,8.36702777778,2017.0,60 - 69
+1044,50.0,long,F,Avril Scott,8.43497222222,2017.0,50 - 59
+1045,35.0,long,F,Emma Crowther,8.44413888889,2017.0,30 - 39
+1046,35.0,long,M,Andy Kirk,8.44552777778,2017.0,30 - 39
+1047,65.0,long,F,Sue High,8.50238888889,2017.0,60 - 69
+1048,55.0,long,F,Linda Knowles,8.58305555556,2017.0,50 - 59
+1049,65.0,long,M,Bill Lumb,8.59208333333,2017.0,60 - 69
+1050,60.0,long,M,Graham Wood,8.688,2017.0,60 - 69
+1051,45.0,long,M,Tim Ellis,8.77844444444,2017.0,40 - 49
+1052,40.0,long,M,Mark Hughes,8.7805,2017.0,40 - 49
+1053,35.0,long,M,Neil Cliff,8.78055555556,2017.0,30 - 39
+1054,30.0,long,M,Craig Higlett,8.88363888889,2017.0,30 - 39
+1055,45.0,long,M,Paul Scoular,9.61577777778,2017.0,40 - 49
+1058,50.0,short,M,Grant Watkins,2.54041666667,2017.0,50 - 59
+1059,55.0,short,M,David Ferrier,2.56447222222,2017.0,50 - 59
+1060,35.0,short,M,Thomas Emmerson,2.65975,2017.0,30 - 39
+1061,45.0,short,M,Ross Morton,2.66105555556,2017.0,40 - 49
+1062,50.0,short,M,Michael Youngson,2.734,2017.0,50 - 59
+1063,50.0,short,M,Anthony Raffaelli,2.74238888889,2017.0,50 - 59
+1064,45.0,short,M,Andrew Currie,2.78647222222,2017.0,40 - 49
+1065,45.0,short,M,Darren Morley,2.85866666667,2017.0,40 - 49
+1066,65.0,short,M,Alastair Macleod,2.86169444444,2017.0,60 - 69
+1067,25.0,short,F,Nik Turner,2.88636111111,2017.0,20 - 29
+1068,50.0,short,F,Elly Veitch,2.92783333333,2017.0,50 - 59
+1069,25.0,short,M,Lewis Black,2.9295,2017.0,20 - 29
+1070,30.0,short,F,Lonia Mitchell,2.93030555556,2017.0,30 - 39
+1071,35.0,short,M,Lee McIver,2.95311111111,2017.0,30 - 39
+1072,25.0,short,M,Tom Ilett,3.02852777778,2017.0,20 - 29
+1073,65.0,short,M,John Hardie,3.03627777778,2017.0,60 - 69
+1074,25.0,short,F,Kerry Prise,3.05886111111,2017.0,20 - 29
+1075,30.0,short,M,Stuart Black,3.10694444444,2017.0,30 - 39
+1076,25.0,short,M,Chris Towers,3.12061111111,2017.0,20 - 29
+1077,30.0,short,M,Duncan Maclean,3.12086111111,2017.0,30 - 39
+1078,25.0,short,F,Catriona Buchanan,3.18572222222,2017.0,20 - 29
+1079,30.0,short,M,Thomas Stuart Mckie,3.18875,2017.0,30 - 39
+1080,30.0,short,F,Sarah Williams,3.1945,2017.0,30 - 39
+1081,50.0,short,M,Andy Williams,3.19480555556,2017.0,50 - 59
+1082,60.0,short,M,Andrew Rose,3.22386111111,2017.0,60 - 69
+1083,65.0,short,M,Edward Yates,3.26866666667,2017.0,60 - 69
+1084,65.0,short,F,Sue Allen,3.27655555556,2017.0,60 - 69
+1085,45.0,short,M,Chris York,3.31875,2017.0,40 - 49
+1086,45.0,short,M,Richard Gwatkin,3.31891666667,2017.0,40 - 49
+1087,20.0,short,F,Hayley Howard,3.325,2017.0,20 - 29
+1088,45.0,short,M,Andy Robinson,3.36666666667,2017.0,40 - 49
+1089,25.0,short,F,Evie Hill,3.39925,2017.0,20 - 29
+1090,55.0,short,M,William Morrison,3.40019444444,2017.0,50 - 59
+1091,15.0,short,F,Jennifer Watt,3.43472222222,2017.0,10 - 19
+1092,45.0,short,F,Fiona Watt,3.43472222222,2017.0,40 - 49
+1093,55.0,short,M,Stephen Peacock,3.46788888889,2017.0,50 - 59
+1094,30.0,short,F,Sarah Elliott,3.50797222222,2017.0,30 - 39
+1095,50.0,short,F,Kate Watkins,3.50841666667,2017.0,50 - 59
+1096,50.0,short,M,Darren Souter,3.5155,2017.0,50 - 59
+1097,40.0,short,M,Grant Fraser,3.52097222222,2017.0,40 - 49
+1098,45.0,short,M,Stuart Brownhill,3.52669444444,2017.0,40 - 49
+1099,40.0,short,M,Gordon Mclachlan,3.53505555556,2017.0,40 - 49
+1100,35.0,short,M,Stephen Lockett,3.54883333333,2017.0,30 - 39
+1101,40.0,short,F,Alison Lockett,3.54913888889,2017.0,40 - 49
+1102,40.0,short,F,Patricia Pool,3.55502777778,2017.0,40 - 49
+1103,65.0,short,M,William Watkinson,3.56483333333,2017.0,60 - 69
+1104,60.0,short,M,John Neaves,3.56538888889,2017.0,60 - 69
+1105,30.0,short,M,David Gamble,3.56738888889,2017.0,30 - 39
+1106,55.0,short,M,Alan Hardie,3.568,2017.0,50 - 59
+1107,60.0,short,M,Tony Ball,3.58416666667,2017.0,60 - 69
+1108,55.0,short,M,Greig Smith,3.59033333333,2017.0,50 - 59
+1109,55.0,short,M,Mike Chan,3.59469444444,2017.0,50 - 59
+1110,50.0,short,F,Michelle Murchie,3.6025,2017.0,50 - 59
+1111,70.0,short,M,William Bergius,3.61633333333,2017.0,70 - 79
+1112,40.0,short,F,Vanessa Maclean,3.62133333333,2017.0,40 - 49
+1113,20.0,short,M,William Rose,3.63691666667,2017.0,20 - 29
+1114,35.0,short,F,Olivia Bennett,3.64413888889,2017.0,30 - 39
+1115,35.0,short,M,Craig Robison,3.67102777778,2017.0,30 - 39
+1116,50.0,short,M,Robin MacKenzie,3.68963888889,2017.0,50 - 59
+1117,30.0,short,M,Jase Bain,3.72658333333,2017.0,30 - 39
+1118,55.0,short,M,Alasdair McCabe,3.72683333333,2017.0,50 - 59
+1119,55.0,short,M,Alexander Brewster,3.796,2017.0,50 - 59
+1120,50.0,short,M,Norman Shewan,3.80488888889,2017.0,50 - 59
+1121,55.0,short,F,Rona Young,3.84672222222,2017.0,50 - 59
+1122,60.0,short,F,Sally Macleod,3.84708333333,2017.0,60 - 69
+1123,45.0,short,M,David Halbert,3.87588888889,2017.0,40 - 49
+1124,30.0,short,F,Evonne Maxwell,3.87655555556,2017.0,30 - 39
+1125,45.0,short,F,Sandra Stuart,3.90233333333,2017.0,40 - 49
+1126,30.0,short,F,Lynsey Cowan,3.90825,2017.0,30 - 39
+1127,65.0,short,F,Judy Blathwayt,3.92038888889,2017.0,60 - 69
+1128,35.0,short,F,Inese Klucane,3.92852777778,2017.0,30 - 39
+1129,50.0,short,F,Sonja Cooper,3.92897222222,2017.0,50 - 59
+1130,40.0,short,F,Graziella Gungui,3.96202777778,2017.0,40 - 49
+1131,60.0,short,M,Alaister McIntosh,3.97422222222,2017.0,60 - 69
+1132,60.0,short,M,Tom McGovern,3.97711111111,2017.0,60 - 69
+1133,50.0,short,F,Elizabeth Jane Parker,3.99438888889,2017.0,50 - 59
+1134,35.0,short,F,Pauline Lennon,4.03913888889,2017.0,30 - 39
+1135,35.0,short,F,Maire Doyle,4.0395,2017.0,30 - 39
+1136,55.0,short,F,Ruth Hill,4.04141666667,2017.0,50 - 59
+1137,55.0,short,M,John Hill,4.04194444444,2017.0,50 - 59
+1138,35.0,short,M,Rupert Shanks,4.06788888889,2017.0,30 - 39
+1139,70.0,short,M,Gavin Shanks,4.06825,2017.0,70 - 79
+1140,55.0,short,F,Gail McLaren,4.07088888889,2017.0,50 - 59
+1141,55.0,short,F,Jane Barrington,4.08188888889,2017.0,50 - 59
+1142,55.0,short,M,David Hennessey,4.09230555556,2017.0,50 - 59
+1143,30.0,short,F,Jennifer Lewis,4.11258333333,2017.0,30 - 39
+1144,40.0,short,F,Pauline Garnett,4.12913888889,2017.0,40 - 49
+1145,40.0,short,F,Catriona Clarke,4.12986111111,2017.0,40 - 49
+1146,55.0,short,F,Catherine Score,4.15566666667,2017.0,50 - 59
+1147,55.0,short,F,Diana Appleyard,4.15569444444,2017.0,50 - 59
+1148,55.0,short,F,Gillian McCrirrick,4.15936111111,2017.0,50 - 59
+1149,50.0,short,M,Mike Cheyne,4.16033333333,2017.0,50 - 59
+1150,45.0,short,F,Emma Gentle,4.16127777778,2017.0,40 - 49
+1151,60.0,short,M,Dave Polson,4.16405555556,2017.0,60 - 69
+1152,50.0,short,M,Mick Jordan,4.18255555556,2017.0,50 - 59
+1153,45.0,short,F,Nikki Munro,4.18416666667,2017.0,40 - 49
+1154,40.0,short,F,Alison Barclay,4.18422222222,2017.0,40 - 49
+1155,40.0,short,M,Jamie Fisher,4.23538888889,2017.0,40 - 49
+1156,55.0,short,M,Stephen Dench,4.25255555556,2017.0,50 - 59
+1157,45.0,short,M,Neil Harvey,4.25841666667,2017.0,40 - 49
+1158,45.0,short,M,Raymond Raffaelli,4.29872222222,2017.0,40 - 49
+1159,45.0,short,F,Joni Fairbairn,4.38869444444,2017.0,40 - 49
+1160,45.0,short,M,Mark Lunney,4.39941666667,2017.0,40 - 49
+1161,55.0,short,F,Caroline Nish,4.401,2017.0,50 - 59
+1162,55.0,short,F,Lorna Dunlop,4.40416666667,2017.0,50 - 59
+1163,45.0,short,F,Mary Robb,4.41738888889,2017.0,40 - 49
+1164,50.0,short,M,Graeme Robb,4.41830555556,2017.0,50 - 59
+1165,50.0,short,F,Deidre Moss,4.4355,2017.0,50 - 59
+1166,45.0,short,F,Julie Abrahams,4.61088888889,2017.0,40 - 49
+1167,55.0,short,F,Carol Manson,4.69952777778,2017.0,50 - 59
+1168,15.0,short,M,Dara Hunter Blair,4.75341666667,2017.0,10 - 19
+1169,55.0,short,M,Andrew Oneil,4.75425,2017.0,50 - 59
+1170,50.0,short,F,Susan Graham,4.77788888889,2017.0,50 - 59
+1171,60.0,short,F,Mary Lamont,4.91536111111,2017.0,60 - 69
+1172,60.0,short,M,Robert Lamont,4.91583333333,2017.0,60 - 69
+1173,55.0,short,M,Ian Fairnington,4.92188888889,2017.0,50 - 59
+1174,50.0,short,F,Emma Nelson,4.92263888889,2017.0,50 - 59
+1175,45.0,short,F,Serenay Micalizzi-Coyle,5.09675,2017.0,40 - 49
+1176,50.0,short,F,Belinda-Anne Thompson,5.20630555556,2017.0,50 - 59
+1177,25.0,short,F,Mairi Gillies,5.20705555556,2017.0,20 - 29
+1178,50.0,short,F,Debbie Dann,5.24480555556,2017.0,50 - 59
+1179,60.0,short,F,Denise Houlahan,5.24488888889,2017.0,60 - 69
+1180,50.0,short,F,Sue Myatt,5.25555555556,2017.0,50 - 59
+1181,50.0,short,F,Lynn Sanderson,5.25616666667,2017.0,50 - 59
+1182,45.0,short,F,Linda Milne,5.47469444444,2017.0,40 - 49
+1183,45.0,short,M,Malcolm Sturrock,6.43480555556,2017.0,40 - 49
+1190,38.0,long,M,Paul Hamblet,4.26361111111,2018.0,30 - 39
+1191,33.0,long,M,Rafael De Giacomo Araujo,4.37194444444,2018.0,30 - 39
+1192,33.0,long,M,Robert Lee,4.38444444444,2018.0,30 - 39
+1193,44.0,long,M,Ross Balfour,4.4775,2018.0,40 - 49
+1194,53.0,long,M,Greig Avinou,4.48361111111,2018.0,50 - 59
+1195,58.0,long,M,Scott Grayson,4.51305555556,2018.0,50 - 59
+1196,34.0,long,M,David Ryan,4.53,2018.0,30 - 39
+1197,30.0,long,F,Katie Conner,4.53138888889,2018.0,30 - 39
+1198,42.0,long,F,Marie Meldrum,4.53805555556,2018.0,40 - 49
+1199,51.0,long,M,Ed Daynes,4.53805555556,2018.0,50 - 59
+1200,38.0,long,M,Neil Reid,4.54666666667,2018.0,30 - 39
+1201,48.0,long,M,Iain Ross,4.57138888889,2018.0,40 - 49
+1202,47.0,long,M,Jonathan Keefe,4.57166666667,2018.0,40 - 49
+1203,39.0,long,M,Craig Breslin,4.57361111111,2018.0,30 - 39
+1204,37.0,long,M,Steven Groom,4.58388888889,2018.0,30 - 39
+1205,36.0,long,M,John Docherty,4.61805555556,2018.0,30 - 39
+1206,57.0,long,M,Scott Chance,4.66777777778,2018.0,50 - 59
+1207,39.0,long,M,Calum Robb,4.67972222222,2018.0,30 - 39
+1208,37.0,long,M,James Barrow,4.73333333333,2018.0,30 - 39
+1209,35.0,long,M,Jamie Nellany,4.825,2018.0,30 - 39
+1210,46.0,long,M,Kristian Whyte,4.93027777778,2018.0,40 - 49
+1211,58.0,long,M,Chris Rason,4.96472222222,2018.0,50 - 59
+1212,42.0,long,M,Umar Saleem,4.98916666667,2018.0,40 - 49
+1213,30.0,long,M,Douglas Thoms,4.98944444444,2018.0,30 - 39
+1214,52.0,long,M,Hans Gellersen,5.00222222222,2018.0,50 - 59
+1215,62.0,long,M,Kit Wilkinson,5.08805555556,2018.0,60 - 69
+1216,55.0,long,M,Tony Bolton,5.19777777778,2018.0,50 - 59
+1217,57.0,long,M,David Howarth,5.22555555556,2018.0,50 - 59
+1218,50.0,long,M,Alan Logie,5.2875,2018.0,50 - 59
+1219,46.0,long,M,Stephen Blackstock,5.31722222222,2018.0,40 - 49
+1220,55.0,long,M,Robert Hamilton,5.335,2018.0,50 - 59
+1221,60.0,long,M,Jack Wood,5.36027777778,2018.0,60 - 69
+1222,71.0,long,M,Graham Brown,5.36027777778,2018.0,70 - 79
+1223,52.0,long,M,Alan Quinn,5.36388888889,2018.0,50 - 59
+1224,25.0,long,M,Strachan McCormick,5.38833333333,2018.0,20 - 29
+1225,63.0,long,M,David Clarkson,5.42083333333,2018.0,60 - 69
+1226,29.0,long,F,Charlotte Wright,5.43527777778,2018.0,20 - 29
+1227,42.0,long,M,Colin Ferris,5.45111111111,2018.0,40 - 49
+1228,47.0,long,M,Gordon Moir,5.45166666667,2018.0,40 - 49
+1229,56.0,long,M,David Williams,5.46,2018.0,50 - 59
+1230,42.0,long,M,Andrew Donaldson,5.475,2018.0,40 - 49
+1231,33.0,long,M,Mark Stevens,5.52333333333,2018.0,30 - 39
+1232,32.0,long,M,Alex Fthenakis,5.56055555556,2018.0,30 - 39
+1233,39.0,long,M,Iain Davidson,5.58777777778,2018.0,30 - 39
+1234,45.0,long,M,Tim Griffin,5.61833333333,2018.0,40 - 49
+1235,39.0,long,M,Adam Frickleton,5.61833333333,2018.0,30 - 39
+1236,28.0,long,M,Lewis Black,5.63666666667,2018.0,20 - 29
+1237,33.0,long,M,Stuart Black,5.66861111111,2018.0,30 - 39
+1238,56.0,long,M,Ian Gordon,5.67444444444,2018.0,50 - 59
+1239,50.0,long,M,Gordon Milne,5.73416666667,2018.0,50 - 59
+1240,64.0,long,M,John Mainwaring,5.73444444444,2018.0,60 - 69
+1241,46.0,long,M,Iain Bell,5.77555555556,2018.0,40 - 49
+1242,56.0,long,M,Dave Edwards,5.82805555556,2018.0,50 - 59
+1243,23.0,long,M,Ken Orr,5.84666666667,2018.0,20 - 29
+1244,57.0,long,M,Colin Luhrs,5.84861111111,2018.0,50 - 59
+1245,59.0,long,M,Peter Orr,5.85027777778,2018.0,50 - 59
+1246,53.0,long,M,Alec Murchie,5.85083333333,2018.0,50 - 59
+1247,46.0,long,M,Graeme Flett,5.91166666667,2018.0,40 - 49
+1248,53.0,long,M,Ben Adams,5.91777777778,2018.0,50 - 59
+1249,38.0,long,M,Colin Black,5.92222222222,2018.0,30 - 39
+1250,38.0,long,M,Robert McMurray,5.925,2018.0,30 - 39
+1251,33.0,long,F,Jenny Reid,5.93194444444,2018.0,30 - 39
+1252,58.0,long,M,Gary Bell,5.94611111111,2018.0,50 - 59
+1253,26.0,long,M,Jonny Maunder,6.02611111111,2018.0,20 - 29
+1254,28.0,long,M,Tom Coppin,6.02611111111,2018.0,20 - 29
+1255,54.0,long,M,Paul Morris,6.05027777778,2018.0,50 - 59
+1256,54.0,long,M,John Anderson,6.10333333333,2018.0,50 - 59
+1257,42.0,long,F,Debbie Feeney,6.11194444444,2018.0,40 - 49
+1258,44.0,long,M,Henry Hay,6.11222222222,2018.0,40 - 49
+1259,43.0,long,M,Craig Low,6.14305555556,2018.0,40 - 49
+1260,44.0,long,M,Antony Walker,6.14583333333,2018.0,40 - 49
+1261,39.0,long,M,Paul Watson,6.2,2018.0,30 - 39
+1262,37.0,long,M,Michael Kidd,6.20083333333,2018.0,30 - 39
+1263,49.0,long,M,Neil McKenzie,6.20222222222,2018.0,40 - 49
+1264,40.0,long,M,Ian Low,6.22083333333,2018.0,40 - 49
+1265,37.0,long,M,Bobby Wright,6.2575,2018.0,30 - 39
+1266,33.0,long,M,Duncan Drummond,6.25777777778,2018.0,30 - 39
+1267,32.0,long,F,Gillian Wright,6.25805555556,2018.0,30 - 39
+1268,43.0,long,M,Nick Blackwood,6.29333333333,2018.0,40 - 49
+1269,52.0,long,M,John McKaig,6.29416666667,2018.0,50 - 59
+1270,49.0,long,M,Kevin Lowson,6.29638888889,2018.0,40 - 49
+1271,49.0,long,M,Martin Shepherd,6.31277777778,2018.0,40 - 49
+1272,54.0,long,M,David Cowell,6.33083333333,2018.0,50 - 59
+1273,52.0,long,M,Myles Marshall,6.36027777778,2018.0,50 - 59
+1274,56.0,long,M,Iain Wardhaugh,6.37805555556,2018.0,50 - 59
+1275,49.0,long,M,Mark Nichol,6.37805555556,2018.0,40 - 49
+1276,52.0,long,M,Archie Prentice,6.39138888889,2018.0,50 - 59
+1277,46.0,long,M,Ian Beardsley,6.39555555556,2018.0,40 - 49
+1278,48.0,long,F,Christina Robinson,6.40055555556,2018.0,40 - 49
+1279,58.0,long,M,Mark Moroney,6.40138888889,2018.0,50 - 59
+1280,34.0,long,M,Rob Emerson,6.40222222222,2018.0,30 - 39
+1281,49.0,long,M,Charles Clark,6.45138888889,2018.0,40 - 49
+1282,59.0,long,M,George Crawford,6.47805555556,2018.0,50 - 59
+1283,28.0,long,M,Sean Taylor,6.48694444444,2018.0,20 - 29
+1284,34.0,long,M,Mark Taylor,6.48722222222,2018.0,30 - 39
+1285,46.0,long,M,Andrew Tipper,6.49805555556,2018.0,40 - 49
+1286,57.0,long,M,Bill McFadden,6.50972222222,2018.0,50 - 59
+1287,68.0,long,M,Bill Kennett,6.51277777778,2018.0,60 - 69
+1288,49.0,long,M,Andy Butterton,6.52777777778,2018.0,40 - 49
+1289,58.0,long,M,Iain Maltby,6.53194444444,2018.0,50 - 59
+1290,41.0,long,F,Sarah Taig,6.54111111111,2018.0,40 - 49
+1291,45.0,long,F,Jenny Britton,6.57805555556,2018.0,40 - 49
+1292,27.0,long,F,Nicole Smith,6.57916666667,2018.0,20 - 29
+1293,27.0,long,M,Tom Brown,6.59555555556,2018.0,20 - 29
+1294,30.0,long,M,Angus Mill,6.59638888889,2018.0,30 - 39
+1295,26.0,long,M,George Cairns,6.60833333333,2018.0,20 - 29
+1296,28.0,long,M,Michael Logan,6.61277777778,2018.0,20 - 29
+1297,26.0,long,F,Emily O'Connor,6.61722222222,2018.0,20 - 29
+1298,39.0,long,M,Jonathan Young,6.68972222222,2018.0,30 - 39
+1299,39.0,long,M,Jamie Wilson,6.69138888889,2018.0,30 - 39
+1300,56.0,long,F,Jackie Kilding,6.74888888889,2018.0,50 - 59
+1301,33.0,long,F,Claire Thompson,6.75277777778,2018.0,30 - 39
+1302,51.0,long,M,Scott Harvey,6.76,2018.0,50 - 59
+1303,58.0,long,M,Richard Stark,6.77777777778,2018.0,50 - 59
+1304,48.0,long,M,Alasdair Malcolm,6.79361111111,2018.0,40 - 49
+1305,26.0,long,M,Jacob Ross,6.81444444444,2018.0,20 - 29
+1306,46.0,long,M,David Payne,6.94777777778,2018.0,40 - 49
+1307,60.0,long,M,John Forsythe,6.94833333333,2018.0,60 - 69
+1308,51.0,long,F,Sarah Merriman,6.96916666667,2018.0,50 - 59
+1309,62.0,long,M,Michael Merriman,6.96916666667,2018.0,60 - 69
+1310,28.0,long,M,Mark Couling,6.98972222222,2018.0,20 - 29
+1311,39.0,long,M,Neil Cliff,7.08527777778,2018.0,30 - 39
+1312,41.0,long,M,Mark Hughes,7.08527777778,2018.0,40 - 49
+1313,49.0,long,M,Jeff Henshaw,7.0875,2018.0,40 - 49
+1314,45.0,long,F,Iona Kewney,7.12111111111,2018.0,40 - 49
+1315,38.0,long,M,Cameron Miller,7.12111111111,2018.0,30 - 39
+1316,39.0,long,M,Keith Houghton,7.125,2018.0,30 - 39
+1317,30.0,long,M,Gavin Leslie,7.12527777778,2018.0,30 - 39
+1318,32.0,long,F,Natalie Jackson,7.12527777778,2018.0,30 - 39
+1319,59.0,long,M,Richard Ward,7.20333333333,2018.0,50 - 59
+1320,34.0,long,F,Louise Cruickshank,7.2075,2018.0,30 - 39
+1321,51.0,long,M,Stuart Irvine,7.20777777778,2018.0,50 - 59
+1322,18.0,long,M,Oliver Smith,7.20805555556,2018.0,10 - 19
+1323,49.0,long,M,Ian Smith,7.20805555556,2018.0,40 - 49
+1324,54.0,long,M,Mike Cheyne,7.20861111111,2018.0,50 - 59
+1325,57.0,long,M,Steve Raine,7.2225,2018.0,50 - 59
+1326,28.0,long,M,Kevin Livingstone,7.2375,2018.0,20 - 29
+1327,42.0,long,F,Jeanette Stevenson,7.24388888889,2018.0,40 - 49
+1328,47.0,long,F,Lucy McNee,7.29777777778,2018.0,40 - 49
+1329,46.0,long,M,Chris Tattersfield,7.29805555556,2018.0,40 - 49
+1330,28.0,long,M,Barry Peebles,7.31416666667,2018.0,20 - 29
+1331,44.0,long,M,Srihari Vallabhajousula,7.40444444444,2018.0,40 - 49
+1332,43.0,long,M,Jamie Stewart,7.4175,2018.0,40 - 49
+1333,53.0,long,F,Carole Paterson,7.54472222222,2018.0,50 - 59
+1334,53.0,long,M,Kevin Paterson,7.545,2018.0,50 - 59
+1335,63.0,long,M,David Pratt,7.545,2018.0,60 - 69
+1336,66.0,long,M,Derek Owen,7.57416666667,2018.0,60 - 69
+1337,40.0,long,M,Richard Kellett,7.63888888889,2018.0,40 - 49
+1338,55.0,long,M,Ray Waters,7.63916666667,2018.0,50 - 59
+1339,53.0,long,M,Scott Olsen,7.63944444444,2018.0,50 - 59
+1340,54.0,long,M,William Forbes,7.64638888889,2018.0,50 - 59
+1341,44.0,long,M,Michael Strauss,7.67638888889,2018.0,40 - 49
+1342,52.0,long,M,Jim Paul,7.77138888889,2018.0,50 - 59
+1343,35.0,long,M,John Thomson,7.7875,2018.0,30 - 39
+1344,43.0,long,M,Steven Rafferty,7.93583333333,2018.0,40 - 49
+1345,50.0,long,M,Ben Jackson,7.96583333333,2018.0,50 - 59
+1346,37.0,long,M,James Subden,7.96583333333,2018.0,30 - 39
+1347,50.0,long,M,Robert Kay,7.96611111111,2018.0,50 - 59
+1348,53.0,long,M,Mark Boon,7.96611111111,2018.0,50 - 59
+1349,54.0,long,M,Chris Harrison,7.96638888889,2018.0,50 - 59
+1350,48.0,long,M,Ben Giles,7.96666666667,2018.0,40 - 49
+1351,56.0,long,M,Nick Martlew,7.96694444444,2018.0,50 - 59
+1352,45.0,long,F,Manisha Kacker,7.96694444444,2018.0,40 - 49
+1353,65.0,long,M,Don Weir,7.97361111111,2018.0,60 - 69
+1354,44.0,long,M,Calum Auld,8.04416666667,2018.0,40 - 49
+1355,46.0,long,F,Emma Gentle,8.09861111111,2018.0,40 - 49
+1356,44.0,long,F,Fiona Auld,8.09861111111,2018.0,40 - 49
+1357,32.0,long,F,Louise Wilkie,8.16388888889,2018.0,30 - 39
+1358,32.0,long,M,Stephen Mudie,8.16444444444,2018.0,30 - 39
+1359,39.0,long,F,Emma Crowther,8.26388888889,2018.0,30 - 39
+1360,37.0,long,M,Andy Kirk,8.26444444444,2018.0,30 - 39
+1361,45.0,long,F,Donna Ellis,8.31166666667,2018.0,40 - 49
+1362,46.0,long,M,Tim Ellis,8.3125,2018.0,40 - 49
+1363,71.0,long,M,Bruce Walker,8.93333333333,2018.0,70 - 79
+1364,49.0,long,M,Grant Scrivener,8.93333333333,2018.0,40 - 49
+1365,70.0,long,M,James Hume,8.93361111111,2018.0,70 - 79
+1366,38.0,long,F,Claire Lehman,9.66777777778,2018.0,30 - 39
+1367,32.0,long,F,Sian Henley,9.66777777778,2018.0,30 - 39
+1373,36.0,short,M,Eoghann Maclean,2.43138888889,2018.0,30 - 39
+1374,54.0,short,M,Michael Youngson,2.51666666667,2018.0,50 - 59
+1375,31.0,short,M,Josh Wilson,2.59083333333,2018.0,30 - 39
+1376,52.0,short,M,Anthony Raffaelli,2.59111111111,2018.0,50 - 59
+1377,58.0,short,M,David Ferrier,2.60805555556,2018.0,50 - 59
+1378,34.0,short,M,Joe Byrde,2.71583333333,2018.0,30 - 39
+1379,33.0,short,M,Iain MacKenzie,2.73527777778,2018.0,30 - 39
+1380,52.0,short,F,Elly Veitch,2.81444444444,2018.0,50 - 59
+1381,45.0,short,M,Ross Nicolson,2.835,2018.0,40 - 49
+1382,34.0,short,F,Catriona Phillips,2.84638888889,2018.0,30 - 39
+1383,58.0,short,M,David Kirkpatrick,2.86611111111,2018.0,50 - 59
+1384,64.0,short,M,Lester Cruickshank,2.86861111111,2018.0,60 - 69
+1385,33.0,short,F,Rowan Muir,2.87333333333,2018.0,30 - 39
+1386,33.0,short,M,Alistair Elfick,2.87333333333,2018.0,30 - 39
+1387,24.0,short,M,Caelin Harrington,2.97666666667,2018.0,20 - 29
+1388,57.0,short,M,Ian Wilson,3.1125,2018.0,50 - 59
+1389,29.0,short,F,Rebecca Havranek,3.11361111111,2018.0,20 - 29
+1390,51.0,short,F,Michelle Murchie,3.11833333333,2018.0,50 - 59
+1391,28.0,short,M,Nathan Kearns,3.14138888889,2018.0,20 - 29
+1392,55.0,short,M,Darren Souter,3.24194444444,2018.0,50 - 59
+1393,57.0,short,M,David Mann,3.2525,2018.0,50 - 59
+1394,47.0,short,F,Helen Sinclair,3.30666666667,2018.0,40 - 49
+1395,57.0,short,M,Ken Sinclair,3.30694444444,2018.0,50 - 59
+1396,37.0,short,M,Craig Robison,3.31888888889,2018.0,30 - 39
+1397,65.0,short,M,John Rowland,3.32388888889,2018.0,60 - 69
+1398,47.0,short,M,Scott Mackay,3.34194444444,2018.0,40 - 49
+1399,45.0,short,M,Andrew Palombo,3.34388888889,2018.0,40 - 49
+1400,43.0,short,F,Frances Macintyre,3.34861111111,2018.0,40 - 49
+1401,49.0,short,M,Chris York,3.34916666667,2018.0,40 - 49
+1402,48.0,short,M,Richard Gwatkin,3.34944444444,2018.0,40 - 49
+1403,37.0,short,F,Joanna De Giacomo Araujo,3.35833333333,2018.0,30 - 39
+1404,53.0,short,M,Garry Sharpe,3.35916666667,2018.0,50 - 59
+1405,33.0,short,F,Evonne Maxwell,3.37944444444,2018.0,30 - 39
+1406,31.0,short,M,Jon MacKinnon,3.38638888889,2018.0,30 - 39
+1407,53.0,short,F,Moira McKelvie,3.40472222222,2018.0,50 - 59
+1408,48.0,short,M,Colin Tevendale,3.415,2018.0,40 - 49
+1409,31.0,short,M,Jack Peden,3.44527777778,2018.0,30 - 39
+1410,47.0,short,F,Lori Hay,3.45166666667,2018.0,40 - 49
+1411,48.0,short,F,Fiona Balfour,3.47888888889,2018.0,40 - 49
+1412,57.0,short,M,Jerry Fraser,3.47944444444,2018.0,50 - 59
+1413,50.0,short,M,Will Smith,3.48194444444,2018.0,50 - 59
+1414,56.0,short,F,Pippa Orr,3.50111111111,2018.0,50 - 59
+1415,35.0,short,M,Stephen Brindle,3.50166666667,2018.0,30 - 39
+1416,59.0,short,M,Neil MacKinnon,3.5075,2018.0,50 - 59
+1417,48.0,short,M,David Mitchell,3.51611111111,2018.0,40 - 49
+1418,63.0,short,F,Nicky Barras,3.55777777778,2018.0,60 - 69
+1419,38.0,short,F,Inese Klucane,3.56138888889,2018.0,30 - 39
+1420,51.0,short,F,Sonja Cooper,3.58277777778,2018.0,50 - 59
+1421,72.0,short,M,Raymond Pringle,3.59333333333,2018.0,70 - 79
+1422,51.0,short,M,Wayne Travis,3.59611111111,2018.0,50 - 59
+1423,37.0,short,F,Penny Miller,3.62583333333,2018.0,30 - 39
+1424,35.0,short,F,Caroline Brodie,3.62611111111,2018.0,30 - 39
+1425,57.0,short,F,Joanna Ward,3.62805555556,2018.0,50 - 59
+1426,57.0,short,F,Diana Appleyard,3.64666666667,2018.0,50 - 59
+1427,42.0,short,F,Marion Haines,3.64833333333,2018.0,40 - 49
+1428,38.0,short,F,Madeline Warriner,3.65444444444,2018.0,30 - 39
+1429,37.0,short,F,Gemma Queen,3.65472222222,2018.0,30 - 39
+1430,24.0,short,M,Calum Mortimer,3.66,2018.0,20 - 29
+1431,25.0,short,F,Miss Katja Riedler,3.66611111111,2018.0,20 - 29
+1432,31.0,short,M,Kristoff Elgert,3.6675,2018.0,30 - 39
+1433,61.0,short,M,Dave Polson,3.67333333333,2018.0,60 - 69
+1434,65.0,short,M,Tony Ball,3.67361111111,2018.0,60 - 69
+1435,54.0,short,M,Bruce Robertson,3.70194444444,2018.0,50 - 59
+1436,59.0,short,M,David Pickering,3.71666666667,2018.0,50 - 59
+1437,59.0,short,M,Alasdair McCabe,3.73222222222,2018.0,50 - 59
+1438,47.0,short,M,Ben Taylor,3.79722222222,2018.0,40 - 49
+1439,44.0,short,F,Kate Taylor,3.79722222222,2018.0,40 - 49
+1440,29.0,short,M,Duncan Scott,3.80916666667,2018.0,20 - 29
+1441,26.0,short,M,Euan McCormack,3.81083333333,2018.0,20 - 29
+1442,27.0,short,F,Harriet Hubbard,3.81166666667,2018.0,20 - 29
+1443,61.0,short,M,Tom McGovern,3.81666666667,2018.0,60 - 69
+1444,46.0,short,M,Alan Brown,3.81888888889,2018.0,40 - 49
+1445,65.0,short,M,Alaister McIntosh,3.83777777778,2018.0,60 - 69
+1446,26.0,short,F,Olivia Pepper,3.85027777778,2018.0,20 - 29
+1447,23.0,short,F,Tasha Wainwright,3.85888888889,2018.0,20 - 29
+1448,26.0,short,F,Rebecca Manson,3.86861111111,2018.0,20 - 29
+1449,37.0,short,F,Olivia Bennett,3.90333333333,2018.0,30 - 39
+1450,71.0,short,M,Christopher Bennett,3.90333333333,2018.0,70 - 79
+1451,64.0,short,M,Chris Langthorne,3.905,2018.0,60 - 69
+1452,60.0,short,F,Susan Vojvodic,3.93388888889,2018.0,60 - 69
+1453,64.0,short,M,Colin Levy,3.94833333333,2018.0,60 - 69
+1454,48.0,short,M,Alan Seabrook,3.94861111111,2018.0,40 - 49
+1455,38.0,short,F,Amy Ross,3.95583333333,2018.0,30 - 39
+1456,53.0,short,F,Angie Lowson,3.95638888889,2018.0,50 - 59
+1457,27.0,short,F,Louise Symons,3.99666666667,2018.0,20 - 29
+1458,66.0,short,F,Judy Blathwayt,4.00222222222,2018.0,60 - 69
+1459,41.0,short,F,Graziella Gungui,4.01305555556,2018.0,40 - 49
+1460,63.0,short,M,Jonathan Revell,4.02583333333,2018.0,60 - 69
+1461,63.0,short,F,Susan Phillips,4.03722222222,2018.0,60 - 69
+1462,70.0,short,F,Barbara Dillon,4.03777777778,2018.0,70 - 79
+1463,44.0,short,M,Jamie Fisher,4.04305555556,2018.0,40 - 49
+1464,57.0,short,F,Catherine Score,4.05361111111,2018.0,50 - 59
+1465,56.0,short,F,Carol Manson,4.06138888889,2018.0,50 - 59
+1466,54.0,short,M,Richard Spoors,4.06972222222,2018.0,50 - 59
+1467,23.0,short,F,Hattie Chambers,4.2375,2018.0,20 - 29
+1468,65.0,short,M,John Ferguson,4.26,2018.0,60 - 69
+1469,50.0,short,M,Raymond Raffaelli,4.31527777778,2018.0,50 - 59
+1470,35.0,short,F,Haley Jasper,4.37972222222,2018.0,30 - 39
+1471,43.0,short,M,Jeremy Humphrey,4.52722222222,2018.0,40 - 49
+1472,30.0,short,M,Hector Valente,4.56527777778,2018.0,30 - 39
+1473,57.0,short,M,Ian Fairnington,4.56694444444,2018.0,50 - 59
+1474,52.0,short,F,Emma Nelson,4.56722222222,2018.0,50 - 59
+1475,30.0,short,F,Lauren Manson,4.57944444444,2018.0,30 - 39
+1476,40.0,short,M,John Maclean,4.73388888889,2018.0,40 - 49
+1477,42.0,short,M,Alexander Cameron,4.73416666667,2018.0,40 - 49
+1478,63.0,short,F,Jessica Anderson,4.75694444444,2018.0,60 - 69
+1479,68.0,short,M,Alexander Anderson,4.75722222222,2018.0,60 - 69
+1480,56.0,short,F,Anne Smart,4.78166666667,2018.0,50 - 59
+1481,55.0,short,M,David Smart,4.78194444444,2018.0,50 - 59
+1482,37.0,short,M,Mark Fisher,4.89472222222,2018.0,30 - 39
+1483,36.0,short,F,Trudi Fisher,4.895,2018.0,30 - 39
+1484,30.0,short,F,Lucy Isles,4.92666666667,2018.0,30 - 39
+1485,33.0,short,F,Jane Davidson,4.93277777778,2018.0,30 - 39
+1486,32.0,short,F,Claire Shackell,4.93277777778,2018.0,30 - 39
+1487,28.0,short,F,Charlie Adkin,5.00833333333,2018.0,20 - 29
+1488,53.0,short,M,Glen Prince,5.01527777778,2018.0,50 - 59
+1489,53.0,short,F,Sara Lewis,5.01527777778,2018.0,50 - 59
+1490,60.0,short,M,Pete Vojvodic,5.17694444444,2018.0,60 - 69
+1491,33.0,short,M,Alan Fieldhouse,5.18972222222,2018.0,30 - 39
+1492,57.0,short,M,Mark Skellern,5.19027777778,2018.0,50 - 59
+1493,61.0,short,M,Shirley Duncan,5.23444444444,2018.0,60 - 69
+1494,55.0,short,F,Jayne Skellern,5.25916666667,2018.0,50 - 59
+1495,58.0,short,F,Allyson Langthorne,5.32638888889,2018.0,50 - 59
+1496,54.0,short,M,Mike Fee,5.33222222222,2018.0,50 - 59
+1497,62.0,short,M,Richard Hacket,5.49277777778,2018.0,60 - 69
+1498,61.0,short,M,Alan Ellis,5.49277777778,2018.0,60 - 69
+1499,42.0,short,M,Karthik Bommu,5.64416666667,2018.0,40 - 49
+1500,40.0,short,F,Sowmya Venkat,5.64833333333,2018.0,40 - 49
+1501,47.0,short,F,Judith Balfour,5.68277777778,2018.0,40 - 49
+1503,48.0,long,M,Kristian Keegan,4.4,2019.0,40 - 49
+1504,34.0,long,M,Robert Lee,4.59805555556,2019.0,30 - 39
+1505,34.0,long,M,David Ryan,4.63888888889,2019.0,30 - 39
+1506,54.0,long,M,Giles Oakley,4.69861111111,2019.0,50 - 59
+1507,48.0,long,M,Dave Moran,4.73666666667,2019.0,40 - 49
+1508,37.0,long,M,John Docherty,4.82361111111,2019.0,30 - 39
+1509,43.0,long,M,Ross Mcculloch,4.8675,2019.0,40 - 49
+1510,52.0,long,M,Brian Macleod,4.95472222222,2019.0,50 - 59
+1511,57.0,long,M,Richard Scoble,5.06722222222,2019.0,50 - 59
+1512,27.0,long,M,Alastair Campbell,5.08305555556,2019.0,20 - 29
+1513,32.0,long,M,Scott Robinson,5.12111111111,2019.0,30 - 39
+1514,55.0,long,M,Tony Douglass,5.12888888889,2019.0,50 - 59
+1515,43.0,long,M,Simon Askham,5.14722222222,2019.0,40 - 49
+1516,54.0,long,M,Shaun Campling,5.15305555556,2019.0,50 - 59
+1517,30.0,long,M,Steven Groom,5.17777777778,2019.0,30 - 39
+1518,59.0,long,M,Ian Neilson,5.21694444444,2019.0,50 - 59
+1519,36.0,long,M,Alexander Coutts,5.22805555556,2019.0,30 - 39
+1520,50.0,long,M,Graeme Cook,5.23888888889,2019.0,50 - 59
+1521,52.0,long,M,Jamie Chisholm,5.31027777778,2019.0,50 - 59
+1522,37.0,long,M,Rob Ross,5.31194444444,2019.0,30 - 39
+1523,44.0,long,M,Fraser Inglis,5.39527777778,2019.0,40 - 49
+1524,51.0,long,M,Marc Di Rollo,5.41,2019.0,50 - 59
+1525,56.0,long,M,Paul Rigby,5.43444444444,2019.0,50 - 59
+1526,54.0,long,M,Tom Macartney,5.46777777778,2019.0,50 - 59
+1527,47.0,long,M,Iain Brown,5.55166666667,2019.0,40 - 49
+1528,49.0,long,M,James Forsyth,5.60111111111,2019.0,40 - 49
+1529,51.0,long,M,Paul Davies,5.64638888889,2019.0,50 - 59
+1530,40.0,long,M,Calum Robb,5.655,2019.0,40 - 49
+1531,24.0,long,M,Charlie Barclay,5.65916666667,2019.0,20 - 29
+1532,33.0,long,M,Stewart Reid,5.66527777778,2019.0,30 - 39
+1533,37.0,long,M,Jeff McCleary,5.66527777778,2019.0,30 - 39
+1534,40.0,long,M,Brian Love,5.67194444444,2019.0,40 - 49
+1535,52.0,long,M,David Simcox,5.67361111111,2019.0,50 - 59
+1536,42.0,long,M,Pete Norris,5.70694444444,2019.0,40 - 49
+1537,59.0,long,M,Ian Ferguson,5.72055555556,2019.0,50 - 59
+1538,13.0,long,M,Sean Gordon,5.74416666667,2019.0,10 - 19
+1539,50.0,long,M,Alan Sinclair,5.74472222222,2019.0,50 - 59
+1540,50.0,long,M,William Scarlett,5.76888888889,2019.0,50 - 59
+1541,63.0,long,M,Dave Hayton,5.77138888889,2019.0,60 - 69
+1542,49.0,long,M,Calum Hardie,5.81055555556,2019.0,40 - 49
+1543,38.0,long,F,Emily Norris,5.85722222222,2019.0,30 - 39
+1544,55.0,long,F,Carol Lawson,5.86416666667,2019.0,50 - 59
+1545,25.0,long,F,Shona Maclachlan,5.87305555556,2019.0,20 - 29
+1546,53.0,long,M,John McKaig,5.87416666667,2019.0,50 - 59
+1547,53.0,long,M,Martin Ure,5.91277777778,2019.0,50 - 59
+1548,43.0,long,M,Andy Butcher,5.91555555556,2019.0,40 - 49
+1549,43.0,long,M,Graeme Williamson,5.91611111111,2019.0,40 - 49
+1550,63.0,long,M,Andy Sutcliffe,5.97944444444,2019.0,60 - 69
+1551,61.0,long,M,Allan Bridges,5.99083333333,2019.0,60 - 69
+1552,54.0,long,M,Doug Flint,6.02361111111,2019.0,50 - 59
+1553,47.0,long,M,James Colthart,6.04722222222,2019.0,40 - 49
+1554,52.0,long,M,Neil Edgar,6.05166666667,2019.0,50 - 59
+1555,46.0,long,M,Hamish Low,6.05277777778,2019.0,40 - 49
+1556,53.0,long,F,Rowan Mestecky,6.07388888889,2019.0,50 - 59
+1557,50.0,long,M,Jamie Sharp,6.0875,2019.0,50 - 59
+1558,44.0,long,M,Nick Blackwood,6.10166666667,2019.0,40 - 49
+1559,40.0,long,M,John Divers,6.1375,2019.0,40 - 49
+1560,58.0,long,M,Peter Griffiths,6.14527777778,2019.0,50 - 59
+1561,57.0,long,M,David Williams,6.18666666667,2019.0,50 - 59
+1562,49.0,long,F,Julie Simpson,6.19138888889,2019.0,40 - 49
+1563,53.0,long,M,Steven Simpson,6.19166666667,2019.0,50 - 59
+1564,39.0,long,M,Brian McGuigan,6.21222222222,2019.0,30 - 39
+1565,53.0,long,M,Robert Fish,6.25027777778,2019.0,50 - 59
+1566,55.0,long,M,Michael Fee,6.30277777778,2019.0,50 - 59
+1567,48.0,long,M,Scott Mackay,6.31166666667,2019.0,40 - 49
+1568,46.0,long,M,Andrew Palombo,6.3125,2019.0,40 - 49
+1569,55.0,long,M,Chris Harrison,6.34361111111,2019.0,50 - 59
+1570,54.0,long,M,Mark Boon,6.34916666667,2019.0,50 - 59
+1571,51.0,long,M,Gordon Milne,6.41888888889,2019.0,50 - 59
+1572,57.0,long,M,Iain Wardhaugh,6.43361111111,2019.0,50 - 59
+1573,57.0,long,M,Andrew Downie,6.44611111111,2019.0,50 - 59
+1574,50.0,long,M,Peter Fenton,6.45638888889,2019.0,50 - 59
+1575,59.0,long,M,Ronald Gordon,6.46972222222,2019.0,50 - 59
+1576,40.0,long,M,Robert Wilson,6.47777777778,2019.0,40 - 49
+1577,32.0,long,M,Jack Peden,6.49916666667,2019.0,30 - 39
+1578,48.0,long,M,Alasdair MacLachlan,6.5,2019.0,40 - 49
+1579,57.0,long,M,Mark Hancock,6.50944444444,2019.0,50 - 59
+1580,54.0,long,M,Alec Murchie,6.53166666667,2019.0,50 - 59
+1581,37.0,long,M,Mihir Joshi,6.56805555556,2019.0,30 - 39
+1582,56.0,long,M,Gary Milliner,6.59805555556,2019.0,50 - 59
+1583,39.0,long,F,Catherine Magill,6.60305555556,2019.0,30 - 39
+1584,53.0,long,M,Stuart Lyall,6.60472222222,2019.0,50 - 59
+1585,64.0,long,M,Tony Evans,6.63916666667,2019.0,60 - 69
+1586,45.0,long,M,Colin Orr,6.67083333333,2019.0,40 - 49
+1587,57.0,long,M,Mike Gronski,6.69611111111,2019.0,50 - 59
+1588,45.0,long,M,Brian Jack,6.69611111111,2019.0,40 - 49
+1589,51.0,long,M,Cammy Clark,6.71,2019.0,50 - 59
+1590,40.0,long,M,Joe Mitchell,6.73472222222,2019.0,40 - 49
+1591,52.0,long,M,Donald Mcleod,6.75416666667,2019.0,50 - 59
+1592,39.0,long,M,Darran Mellish,6.76638888889,2019.0,30 - 39
+1593,55.0,long,M,David Cowell,6.79027777778,2019.0,50 - 59
+1594,53.0,long,M,Myles Marshall,6.79861111111,2019.0,50 - 59
+1595,44.0,long,M,Duncan McCool,6.79972222222,2019.0,40 - 49
+1596,58.0,long,M,Colin Luhrs,6.82138888889,2019.0,50 - 59
+1597,52.0,long,F,Angela Irwin,6.82166666667,2019.0,50 - 59
+1598,55.0,long,M,Neil Irwin,6.82194444444,2019.0,50 - 59
+1599,47.0,long,F,Emma Smith,6.83805555556,2019.0,40 - 49
+1600,52.0,long,M,Michael Jones,6.87027777778,2019.0,50 - 59
+1601,29.0,long,F,Laura Cunningham,6.88833333333,2019.0,20 - 29
+1602,56.0,long,M,Stuart Barclay,6.89388888889,2019.0,50 - 59
+1603,49.0,long,M,Jerry Mackie,6.90194444444,2019.0,40 - 49
+1604,45.0,long,M,Gordon Hunter,6.91944444444,2019.0,40 - 49
+1605,62.0,long,M,Bob House,6.93972222222,2019.0,60 - 69
+1606,31.0,long,M,Ben Troth,6.95972222222,2019.0,30 - 39
+1607,35.0,long,F,Catriona Phillips,6.96083333333,2019.0,30 - 39
+1608,55.0,long,M,Dan Hird,6.97111111111,2019.0,50 - 59
+1609,45.0,long,F,Moira Jent,6.99638888889,2019.0,40 - 49
+1610,63.0,long,M,Rob Buchan,6.99666666667,2019.0,60 - 69
+1611,48.0,long,F,Paukine Brennan,6.99722222222,2019.0,40 - 49
+1612,42.0,long,M,Colin MacFarlane,7.00361111111,2019.0,40 - 49
+1613,56.0,long,M,Stephen Whiston,7.00388888889,2019.0,50 - 59
+1614,42.0,long,M,Ian Bowd,7.02416666667,2019.0,40 - 49
+1615,61.0,long,M,James Swiffen,7.025,2019.0,60 - 69
+1616,58.0,long,F,Toni Swiffen,7.025,2019.0,50 - 59
+1617,37.0,long,M,Jack Moir,7.02833333333,2019.0,30 - 39
+1618,67.0,long,M,Derek Owen,7.05444444444,2019.0,60 - 69
+1619,66.0,long,M,Martin Clarke,7.0925,2019.0,60 - 69
+1620,52.0,long,M,Stuart Irvine,7.11611111111,2019.0,50 - 59
+1621,34.0,long,M,Christopher Ramsdale,7.14861111111,2019.0,30 - 39
+1622,47.0,long,M,Iain Bell,7.15027777778,2019.0,40 - 49
+1623,47.0,long,M,James Cousins,7.15138888889,2019.0,40 - 49
+1624,42.0,long,M,Karl Brewin,7.15777777778,2019.0,40 - 49
+1625,60.0,long,M,George Crawford,7.25222222222,2019.0,60 - 69
+1626,62.0,long,M,Ian Wilson,7.26805555556,2019.0,60 - 69
+1627,30.0,long,M,Duncan Scott,7.27055555556,2019.0,30 - 39
+1628,37.0,long,M,Carlo Coccaro,7.32416666667,2019.0,30 - 39
+1629,45.0,long,M,Euan Jamieson,7.34416666667,2019.0,40 - 49
+1630,55.0,long,M,Mike Cheyne,7.34444444444,2019.0,50 - 59
+1631,67.0,long,M,Rowland Fox,7.3475,2019.0,60 - 69
+1632,53.0,long,M,Scott Moyies,7.39694444444,2019.0,50 - 59
+1633,56.0,long,M,Alan McIntyre,7.42,2019.0,50 - 59
+1634,55.0,long,M,Will Jacob,7.42222222222,2019.0,50 - 59
+1635,49.0,long,M,Alasdair Malcolm,7.43805555556,2019.0,40 - 49
+1636,53.0,long,M,Colin Dales,7.4575,2019.0,50 - 59
+1637,23.0,long,M,Joe Leach,7.45805555556,2019.0,20 - 29
+1638,59.0,long,M,Andrew Northover,7.49333333333,2019.0,50 - 59
+1639,55.0,long,M,Phil Chapman,7.54527777778,2019.0,50 - 59
+1640,26.0,long,F,Roisin Leach,7.56638888889,2019.0,20 - 29
+1641,57.0,long,M,Martin Whelan,7.59,2019.0,50 - 59
+1642,58.0,long,F,Colette Whelan,7.59,2019.0,50 - 59
+1643,57.0,long,M,Thomas Stewart,7.59611111111,2019.0,50 - 59
+1644,54.0,long,M,Jonathan Burton,7.77916666667,2019.0,50 - 59
+1645,38.0,long,M,James Subden,7.78694444444,2019.0,30 - 39
+1646,49.0,long,M,Ben Giles,7.78861111111,2019.0,40 - 49
+1647,49.0,long,F,Cath Giles,7.78916666667,2019.0,40 - 49
+1648,52.0,long,M,Paul Crampin,7.79333333333,2019.0,50 - 59
+1649,40.0,long,F,Laura Chessar,7.79416666667,2019.0,40 - 49
+1650,24.0,long,F,Hattie Chambers,7.83972222222,2019.0,20 - 29
+1651,25.0,long,M,Caelin Harrington,7.84055555556,2019.0,20 - 29
+1652,58.0,long,M,Ken Murray,7.96138888889,2019.0,50 - 59
+1653,56.0,long,M,Paul Jamieson,8.19694444444,2019.0,50 - 59
+1654,43.0,long,M,Colin Thompson,8.22138888889,2019.0,40 - 49
+1655,45.0,long,M,Michael Strauss,8.4775,2019.0,40 - 49
+1656,44.0,long,M,Steven Rafferty,8.72055555556,2019.0,40 - 49
+1657,36.0,long,M,John Thomson,8.72055555556,2019.0,30 - 39
+1658,56.0,long,M,Clive Edwards,8.94666666667,2019.0,50 - 59
+1659,48.0,long,F,Joe-Ann Edwards,8.95972222222,2019.0,40 - 49
+1660,35.0,long,M,Michael Logan,9.23583333333,2019.0,30 - 39
+1661,27.0,long,M,Matthew Leach,9.23722222222,2019.0,20 - 29
+1662,70.0,long,M,Gordon Trevor,9.3325,2019.0,70 - 79
+1667,49.0,short,M,Andy Whitlie,2.44444444444,2019.0,40 - 49
+1668,49.0,short,M,Mark Lydon,2.47333333333,2019.0,40 - 49
+1669,53.0,short,M,Tony Raffaelli,2.55388888889,2019.0,50 - 59
+1670,50.0,short,M,Darren Morley,2.63222222222,2019.0,50 - 59
+1671,46.0,short,M,Ross Nicolson,2.71277777778,2019.0,40 - 49
+1672,52.0,short,F,Penny Gardiner,2.74583333333,2019.0,50 - 59
+1673,53.0,short,F,Elly Veitch,2.75611111111,2019.0,50 - 59
+1674,49.0,short,M,Craig Samson,2.80444444444,2019.0,40 - 49
+1675,48.0,short,M,John Robertson,2.80583333333,2019.0,40 - 49
+1676,54.0,short,M,Matthew Dubery,2.80611111111,2019.0,50 - 59
+1677,51.0,short,M,Keith Nicolson,2.80611111111,2019.0,50 - 59
+1678,35.0,short,M,Iain Mackenzie,2.81861111111,2019.0,30 - 39
+1679,55.0,short,M,Roddy McRae,2.82222222222,2019.0,50 - 59
+1680,47.0,short,M,Dan Baraclough,2.85,2019.0,40 - 49
+1681,38.0,short,M,Nick Tanner,2.89527777778,2019.0,30 - 39
+1682,42.0,short,F,Pippa Tanner,2.89666666667,2019.0,40 - 49
+1683,59.0,short,M,David Ferrier,2.96666666667,2019.0,50 - 59
+1684,47.0,short,M,Ross Clarke,2.97055555556,2019.0,40 - 49
+1685,51.0,short,M,Tony Thorne,2.99444444444,2019.0,50 - 59
+1686,49.0,short,M,Wil Tunnell,3.05333333333,2019.0,40 - 49
+1687,47.0,short,M,Malcolm Nicol,3.09777777778,2019.0,40 - 49
+1688,57.0,short,M,Robert Buchanan,3.12861111111,2019.0,50 - 59
+1689,65.0,short,M,Lester Cruickshank,3.13611111111,2019.0,60 - 69
+1690,34.0,short,M,Duncan Maclean,3.215,2019.0,30 - 39
+1691,29.0,short,M,Chris Towers,3.21527777778,2019.0,20 - 29
+1692,44.0,short,M,Ross Jaffrey,3.22583333333,2019.0,40 - 49
+1693,50.0,short,M,Nigel Robinson,3.22777777778,2019.0,50 - 59
+1694,62.0,short,M,Andrew Rose,3.23277777778,2019.0,60 - 69
+1695,41.0,short,F,Hazel Coutts,3.25611111111,2019.0,40 - 49
+1696,55.0,short,M,David Meikle,3.2575,2019.0,50 - 59
+1697,48.0,short,M,William Gordon,3.25861111111,2019.0,40 - 49
+1698,35.0,short,F,Susannah Scarlett,3.27027777778,2019.0,30 - 39
+1699,71.0,short,M,John Hardie,3.30333333333,2019.0,70 - 79
+1700,70.0,short,M,Alastair MacLeod,3.30361111111,2019.0,70 - 79
+1701,56.0,short,M,Darren Souter,3.3375,2019.0,50 - 59
+1702,58.0,short,M,Colin Wilson,3.34194444444,2019.0,50 - 59
+1703,66.0,short,M,John Rowland,3.34777777778,2019.0,60 - 69
+1704,57.0,short,F,Joan Wilson,3.35916666667,2019.0,50 - 59
+1705,45.0,short,M,Philip Beddow,3.44222222222,2019.0,40 - 49
+1706,39.0,short,F,Martha Walsh,3.50722222222,2019.0,30 - 39
+1707,41.0,short,F,Shona Love,3.50805555556,2019.0,40 - 49
+1708,45.0,short,M,James Gibson,3.53833333333,2019.0,40 - 49
+1709,20.0,short,F,Katherine Bowman,3.56944444444,2019.0,20 - 29
+1710,33.0,short,F,Victoria Brown,3.61555555556,2019.0,30 - 39
+1711,47.0,short,M,Alan Brown,3.62305555556,2019.0,40 - 49
+1712,50.0,short,M,Ian Smith,3.65027777778,2019.0,50 - 59
+1713,19.0,short,M,Oliver Smith,3.65055555556,2019.0,10 - 19
+1714,49.0,short,F,Kirsteen Morrison,3.65138888889,2019.0,40 - 49
+1715,39.0,short,F,Inese Klucane,3.65138888889,2019.0,30 - 39
+1716,30.0,short,F,Ailsa MacLachlan,3.65194444444,2019.0,30 - 39
+1717,48.0,short,M,Andy Gibson,3.66055555556,2019.0,40 - 49
+1718,62.0,short,M,Tom McGovern,3.66222222222,2019.0,60 - 69
+1719,64.0,short,M,Jim Tough,3.68777777778,2019.0,60 - 69
+1720,54.0,short,M,Tony Byatt,3.70722222222,2019.0,50 - 59
+1721,44.0,short,F,Annelie Du Plessis,3.70722222222,2019.0,40 - 49
+1722,23.0,short,M,Samuel Howard,3.7075,2019.0,20 - 29
+1723,27.0,short,M,Euan McCormack,3.71361111111,2019.0,20 - 29
+1724,27.0,short,M,Liam Roebuck,3.71777777778,2019.0,20 - 29
+1725,66.0,short,M,Tony Ball,3.72944444444,2019.0,60 - 69
+1726,27.0,short,F,Liv Pepper,3.7325,2019.0,20 - 29
+1727,26.0,short,F,Amy Samson,3.73361111111,2019.0,20 - 29
+1728,42.0,short,F,Iona Shepherd,3.81,2019.0,40 - 49
+1729,45.0,short,M,David Wilson,3.82333333333,2019.0,40 - 49
+1730,47.0,short,M,David Paul Brooks,3.82361111111,2019.0,40 - 49
+1731,37.0,short,F,Louise Robiati,3.82861111111,2019.0,30 - 39
+1732,58.0,short,F,Diana Appleyard,3.835,2019.0,50 - 59
+1733,58.0,short,F,Catherine Score,3.83527777778,2019.0,50 - 59
+1734,68.0,short,F,Sue Allen,3.83694444444,2019.0,60 - 69
+1735,34.0,short,M,Fraser Douglas,3.86138888889,2019.0,30 - 39
+1736,32.0,short,F,Nikki Sloan,3.86805555556,2019.0,30 - 39
+1737,57.0,short,M,Colin Cummins,3.87888888889,2019.0,50 - 59
+1738,43.0,short,F,Patricia Pool,3.88,2019.0,40 - 49
+1739,52.0,short,F,Michelle Murchie,3.88,2019.0,50 - 59
+1740,52.0,short,M,Martin Green,3.92666666667,2019.0,50 - 59
+1741,47.0,short,F,Deborah Green,3.92777777778,2019.0,40 - 49
+1742,60.0,short,M,Alasdair McCabe,3.99083333333,2019.0,60 - 69
+1743,58.0,short,M,Ross Gourlay,4.01055555556,2019.0,50 - 59
+1744,55.0,short,M,Ben Adams,4.0425,2019.0,50 - 59
+1745,45.0,short,M,Calum Auld,4.05166666667,2019.0,40 - 49
+1746,42.0,short,F,Graziella Gungui,4.07833333333,2019.0,40 - 49
+1747,48.0,short,M,O'Neill Ivan,4.07972222222,2019.0,40 - 49
+1748,58.0,short,M,Ian Fairnington,4.08305555556,2019.0,50 - 59
+1749,62.0,short,F,Sally Macleod,4.13055555556,2019.0,60 - 69
+1750,54.0,short,F,Dawn Gleeson,4.14777777778,2019.0,50 - 59
+1751,51.0,short,M,Raymond Raffaelli,4.15083333333,2019.0,50 - 59
+1752,60.0,short,F,Rona Young,4.17583333333,2019.0,60 - 69
+1753,48.0,short,F,Mandy Bruce,4.18388888889,2019.0,40 - 49
+1754,52.0,short,M,Ronald Bruce,4.18416666667,2019.0,50 - 59
+1755,45.0,short,F,Fiona Auld,4.22277777778,2019.0,40 - 49
+1756,20.0,short,F,Fiona McAdam,4.26444444444,2019.0,20 - 29
+1757,52.0,short,M,Ian Mcadam,4.26638888889,2019.0,50 - 59
+1758,36.0,short,F,Haley Jasper,4.38527777778,2019.0,30 - 39
+1759,59.0,short,F,Lynne Cummins,4.39055555556,2019.0,50 - 59
+1760,51.0,short,M,Andrew Currie,4.39805555556,2019.0,50 - 59
+1761,59.0,short,M,John Hill,4.41444444444,2019.0,50 - 59
+1762,57.0,short,M,David Thomas,4.41444444444,2019.0,50 - 59
+1763,59.0,short,F,Ruth Hill,4.42527777778,2019.0,50 - 59
+1764,57.0,short,F,Louise Thomas,4.42666666667,2019.0,50 - 59
+1765,71.0,short,M,James Hume,4.53833333333,2019.0,70 - 79
+1766,63.0,short,M,Tim Bennett,4.60611111111,2019.0,60 - 69
+1767,29.0,short,F,Karina Bennett,4.60805555556,2019.0,20 - 29
+1768,57.0,short,M,David Richards,4.62388888889,2019.0,50 - 59
+1769,25.0,short,F,Brogan Sinclair,4.62416666667,2019.0,20 - 29
+1770,72.0,short,M,Bruce Walker,4.64138888889,2019.0,70 - 79
+1771,56.0,short,M,Paul Booth,4.68416666667,2019.0,50 - 59
+1772,55.0,short,F,Hazel Booth,4.68444444444,2019.0,50 - 59
+1773,43.0,short,F,Joanne Jamieson,4.68472222222,2019.0,40 - 49
+1774,66.0,short,M,Alaister McIntosh,4.73333333333,2019.0,60 - 69
+1775,22.0,short,F,Hayley Howard,4.78861111111,2019.0,20 - 29
+1776,57.0,short,M,Stephen Howard,4.79555555556,2019.0,50 - 59
+1777,32.0,short,M,Matty Newman,4.82277777778,2019.0,30 - 39
+1778,37.0,short,F,Trudi Fisher,4.83138888889,2019.0,30 - 39
+1779,53.0,short,F,Emma Nelson,5.21916666667,2019.0,50 - 59
+1780,48.0,short,F,Linda Milne,5.29333333333,2019.0,40 - 49
+1781,38.0,short,M,Mark Fisher,5.33583333333,2019.0,30 - 39
+1782,57.0,short,M,Kevin Gordon,5.34055555556,2019.0,50 - 59
+1783,40.0,short,M,Greig Foulds,5.47194444444,2019.0,40 - 49
+1784,33.0,short,F,Amanda Reid,5.58305555556,2019.0,30 - 39
+1785,55.0,short,M,Ross Findlay,8.50527777778,2019.0,50 - 59
